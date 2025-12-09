@@ -1,5 +1,7 @@
 markdown: GFM
-#theme: architect
+remote_theme: pages-themes/modernist@v0.2.0  # https://github.com/pages-themes/modernist?tab=readme-ov-file#usage
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 plugin:
   - jekyll-relative-links
 relative_links:

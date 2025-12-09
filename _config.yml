@@ -1,5 +1,5 @@
 markdown: GFM
-theme: architect
+#theme: architect
 plugin:
   - jekyll-relative-links
 relative_links:

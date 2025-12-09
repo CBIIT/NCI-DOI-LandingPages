@@ -1,4 +1,4 @@
-theme: Architect
+theme: architect
 plugin:
   - jekyll-relative-links
 relative_links:

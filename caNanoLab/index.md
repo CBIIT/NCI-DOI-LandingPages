@@ -4,5 +4,5 @@ This repository contains the DOI landing pages for the caNanoLab project.
 
 ## Example Pages
 -----------------
-[Table Example](./demopate-table.md) \
+[Table Example](./demopage-table.md) \
 [Text Example](./demopage-text.md)

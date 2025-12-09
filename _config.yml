@@ -1,3 +1,4 @@
+markdown: GFM
 theme: architect
 plugin:
   - jekyll-relative-links

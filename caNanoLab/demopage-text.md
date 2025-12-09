@@ -1,6 +1,6 @@
 # caNanoLab DOI
 -----------------
-## DOI: DOI HERE
+## DOI: [10.1038/s41467-025-66634-7](http://dx.doi.org/10.1038/s41467-025-66634-7)
 ## Title: Example of a plain DOI landing page
 ----------------------------------------------
 ### Resource Type: publication_type

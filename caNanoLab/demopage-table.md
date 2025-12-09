@@ -1,6 +1,6 @@
 # caNanoLab DOI
 -----------------
-## DOI: 10.1000-10.6999
+## DOI: DOI HERE
 ## Title: Example of a plain DOI landing page
 ----------------------------------------------
 ### Resource Type: publication_type

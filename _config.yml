@@ -1,3 +1,6 @@
 markdown: GFM
-theme: jekyll-theme-modernist
+#theme: jekyll-theme-modernist
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+  - jekyll-remote-theme
 

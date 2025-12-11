@@ -13,362 +13,362 @@ This repository contains the DOI landing pages for the caNanoLab project.
 ## DOI Pages 
 -------------------------- 
 | File Name | File Type | 
-| NIST - NCL Joint Assay Protocol, PCC-10 | [Protocol](./29949954.md) 
-| NEU-MAmiji - Video Protocol on Therapeutic Gene Delivery and Transfection in Human Pancreatic Cancer Cells using EGFR-targeted Gelatin Nanoparticles | [Protocol](./40108033.md) 
-| UTSA-ZKereselidze - Video Protocol on Gold Nanostar Synthesis with a Silver Seed Mediated Growth Method | [Protocol](./40108034.md) 
-| VAMC-JDouglas - Video Protocol on Antibody Transfection into Neurons as a Tool to Study Disease Pathogenesis | [Protocol](./40108035.md) 
-| UWO-CFCho - Video Protocol on Evaluation of Nanoparticle Uptake in Tumors in Real Time Using Intravital Imaging | [Protocol](./40108036.md) 
-| CWRU-AWen - Video Protocol on Viral Nanoparticles for In vivo Tumor Imaging | [Protocol](./40108037.md) 
-| CU-AHughes - Video Protocol on Rapid Isolation of Viable Circulating Tumor Cells from Patient Blood Samples | [Protocol](./40108038.md) 
-| USC-JYHwang - Video Protocol on Analysis of Targeted Viral Protein Nanoparticles Delivered to HER2+ Tumors | [Protocol](./40108039.md) 
-| TU-SAhmadian - Video Protocol on Cellular Toxicity of Nanogenomedicine in MCF-7 Cell Line: MTT assay | [Protocol](./40108040.md) 
-| Large Scale Purification of RNA Nanoparticles by Preparative Ultracentrifugation | [Protocol](./57802752.md) 
-| Simple Method for Constructing RNA Triangle, Square, Pentagon by Tuning Interior RNA 3WJ Angle from 60 to 90 or 108 degrees | [Protocol](./57802753.md) 
-| Fabrication of pRNA nanoparticles to deliver therapeutic RNAs and bioactive compounds into tumor cells. | [Protocol](./57802754.md) 
-| Targeted Silica Nanoparticles for Image-Guided Intraoperative Sentinel Lymph Node Mapping in Head and Neck Melanoma, Breast, and Gynecologic Malignancies | [Protocol](./62226432.md) 
-| PET Imaging of Patients with Melanoma and Malignant Brain Tumors Using an 124I-labeled cRGD Silica Nanomolecular Particle Tracer: A Microdosing Study | [Protocol](./62226433.md) 
-| NCL Method ITA-2.2 | [Protocol](./62947328.md) 
-| Density Measurement | [Protocol](./69763072.md) 
-| Zeta Potential measurement | [Protocol](./70385664.md) 
-| Crystallite size XRD | [Protocol](./70385665.md) 
-| Particle Size with Nitrogen Adsorption and BET analysis | [Protocol](./70385677.md) 
-| Organic and Elemental Carbon (EC-OC) analysis | [Protocol](./70385678.md) 
-| FTIR analysis | [Protocol](./70385689.md) 
-| Trace metals analysis with ICP-MS | [Protocol](./70385696.md) 
-| X-Ray Photoelectron Spectroscopy  | [Protocol](./70385697.md) 
-| Transmission Electron Microscopy - Shape assessment | [Protocol](./70385698.md) 
-| Particle Size (Feret diameter) - TEM | [Protocol](./70385699.md) 
-| Primary Particle Size (Feret) Distribution - TEM | [Protocol](./70385700.md) 
-| Crystal Structure with X-ray diffraction  | [Protocol](./70385701.md) 
-| Endotoxin Assessment (rFC) | [Protocol](./70385719.md) 
-| WHO sterility test | [Protocol](./70385720.md) 
-| Porosity with Liquid Nitrogen Adsorption  | [Protocol](./70385721.md) 
-| Stoichiometry - molecular weight (X-ray spectroscopy) | [Protocol](./70385722.md) 
-| Stoichiometry Molecular weight - ICPMS | [Protocol](./70385723.md) 
-| Critical Delivered Sonication Energy - DLS | [Protocol](./70385724.md) 
-| Effective Density-VCM method | [Protocol](./70385725.md) 
-| Size Distribution of the Suspension - DLS | [Protocol](./70385726.md) 
-| Specific conductance-DLS | [Protocol](./70385727.md) 
-| Specific Surface Area | [Protocol](./70385728.md) 
-| SEM Imaging and Image Analysis | [Protocol](./70549504.md) 
-| Radiolabeling of Alpha MSH-PEG-Cy5-Cdots for PET-CT Imaging | [Protocol](./78610440.md) 
-| Zirconium 89 Radiolabeling of DFO-scFv-PEG-Cy5-Cornell Dots  | [Protocol](./78610441.md) 
-| Synthesis of DFO-ScFV-PEG-Cy5-Cornell Dots | [Protocol](./78610442.md) 
-| NCL Method STE-1.4 | [Protocol](./84475910.md) 
-| NCL Method PCC-2: Measuring Zeta Potential of Nanoparticles | [Protocol](./88539136.md) 
-| NCL Method PCC-16: Quantitation of PEG on PEGylated Gold Nanoparticles Using Reversed Phase High Performance Liquid Chromatography and Charged Aerosol Detection | [Protocol](./88539138.md) 
-| NCL Method PCC-18: Quantitation of APIs in Polymeric Prodrug Formulations | [Protocol](./88539139.md) 
-| NCL Method PCC-19: Asymmetric-Flow Field-Flow Fractionation | [Protocol](./88539140.md) 
-| NCL Method PCC-17: Quantitation of Nanoparticle Composition Using Thermogravimetric Analysis | [Protocol](./88539141.md) 
-| NCL Method ITA-1: Analysis of Hemolytic Properties of Nanoparticles | [Protocol](./88539142.md) 
-| NCL Method ITA-2.1: Analysis of Platelet Aggregation by Cell Counting | [Protocol](./88539143.md) 
-| NCL Method ITA-2.2: Analysis of Platelet Aggregation by Light Transmission Aggregometry | [Protocol](./88539144.md) 
-| NCL Method ITA-3: Mouse Granulocyte-Macrophage Colony-Forming Unit Assay | [Protocol](./88539145.md) 
-| NCL Method ITA-4: Analysis of Nanoparticle Interaction with Plasma Proteins by 2D PAGE | [Protocol](./88539146.md) 
-| NCL Method ITA-5.1: Qualitative Analysis of Total Complement Activation by Western Blot | [Protocol](./88539147.md) 
-| NCL Method ITA-5.2: Analysis of Complement Activation by Single-Plex EIA or Multiplex ELISA | [Protocol](./88539148.md) 
-| NCL Method ITA-6.1: Leukocyte Proliferation Assay (Immunostimulation and Immunosuppression) | [Protocol](./88539149.md) 
-| Supplement to NIST-NCL Joint Assay Protocols PCC-8 & PCC-9: Metal Quantitation by Inductively Coupled Plasma-Mass Spectrometry | [Protocol](./88834048.md) 
-| NCL Method ITA-6.2: Leukocyte Proliferation Assay (Immunostimulation) | [Protocol](./88834054.md) 
-| NCL Method IEA-1: Analysis of Nanoparticle Effects on Invasion of Cancer Cells | [Protocol](./88834056.md) 
-| NCL Method ITA-6.3: Leukocyte Proliferation Assay (Immunosuppression) | [Protocol](./88834057.md) 
-| NCL Method ITA-8.2: Analysis of Nanoparticle Chemoattractant Properties Using Label-Free, Real-Time Chemotaxis Assay | [Protocol](./88834059.md) 
-| NCL Method ITA-8.1: Chemotaxis Assay | [Protocol](./88834060.md) 
-| NCL Method ITA-9.1: Phagocytosis Assay | [Protocol](./88834061.md) 
-| NCL Method ITA-9.2: In Vitro Assay for Assessing Nanoparticle Effects on Monocyte/Macrophage Phagocytic Function | [Protocol](./88834062.md) 
-| NCL Method ITA-10: Preparation of Human Whole Blood and Peripheral Blood Mononuclear Cell Cultures to Analyze Nanoparticle Potential to Induce Cytokines In Vitro | [Protocol](./88834063.md) 
-| NCL Method ITA-18: Human Lymphocyte Activation (HuLa) Assay for Analysis of Immunosuppressive Properties of Nanomaterials | [Protocol](./88834064.md) 
-| NCL Method ITA-12: In Vitro Analysis of Nanoparticle Effects on Plasma Coagulation Time | [Protocol](./88834065.md) 
-| NCL Method ITA-17: Analysis of Nanoparticle Effects on Leukocyte Procoagulant Activity | [Protocol](./88834066.md) 
-| NCL Method ITA-11: Measurement of Nanoparticle Effects on Cytotoxic Activity of NK Cells by Label-Free RT-CES System | [Protocol](./88834067.md) 
-| NCL Method ITA-23: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IL-1Œ? in Culture Supernatants | [Protocol](./88834068.md) 
-| NCL Method ITA-24: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human TNFŒ± in Culture Supernatants | [Protocol](./88834069.md) 
-| NCL Method ITA-22: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IL-8 in Culture Supernatants | [Protocol](./88834070.md) 
-| NCL Method ITA-25: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IFNŒ? in Culture Supernatants | [Protocol](./88834071.md) 
-| In Vitro Toxicology Assay Kit, Lactic Dehydrogenase based  | [Protocol](./89751552.md) 
-| CellTiter 96 AQueous One Solution Cell Proliferation Assay | [Protocol](./89751553.md) 
-| NCL Method ITA-27: Multiplex Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human Cytokines in Culture Supernatants | [Protocol](./100335618.md) 
-| NCL Method STE-2.2: Detection of Bacterial Contamination Using Luria Broth Agar Plates | [Protocol](./110788608.md) 
-| Considerations and Some Practical Solutions to Overcome Nanoparticle Interference with LAL Assays and to Avoid Endotoxin Contamination in Nanoformulations | [Protocol](./110788609.md) 
-| Elemental Analysis in Biological Matrices Using ICP-MS | [Protocol](./110788610.md) 
-| PEG Quantitation Using Reversed-Phase High-Performance Liquid Chromatography and Charged Aerosol Detection | [Protocol](./110788611.md) 
-| Designing an In Vivo Efficacy Study of Nanomedicines for Preclinical Tumor Growth Inhibition | [Protocol](./110788612.md) 
-| Quantitation of Surface Coating on Nanoparticles Using Thermogravimetric Analysis | [Protocol](./110788613.md) 
-| Updated Method for In Vitro Analysis of Nanoparticle Hemolytic Properties | [Protocol](./110788614.md) 
-| In Vitro Assessment of Nanoparticle Effects on Blood Coagulation | [Protocol](./110788615.md) 
-| In Vitro Analysis of Nanoparticle Effects on the Zymosan Uptake by Phagocytic Cells | [Protocol](./110788616.md) 
-| Assessing NLRP3 Inflammasome Activation by Nanoparticles, in Characterization of nanoparticles intended for drug delivery | [Protocol](./110788617.md) 
-| Analysis of Complement Activation by Nanoparticles | [Protocol](./110788618.md) 
-| Methods for Analysis of Nanoparticle Immunosuppressive Properties In Vitro and In Vivo | [Protocol](./110788619.md) 
-| Analysis of Pro-inflammatory Cytokine and Type II Interferon Induction by Nanoparticles | [Protocol](./110788620.md) 
-| Analysis of Nanoparticle-Adjuvant Properties In Vivo | [Protocol](./110788621.md) 
-| In Vitro and In Vivo Methods for Analysis of Nanoparticle Potential to Induce Delayed-Type Hypersensitivity Reactions | [Protocol](./110788622.md) 
-| Autophagy Monitoring Assay II: Imaging Autophagy Induction in LLC-PK1 Cells Using GFP-LC3 Protein Fusion Construct | [Protocol](./110788623.md) 
-| Improved Ultrafiltration Method to Measure Drug Release from Nanomedicines Utilizing a Stable Isotope Tracer | [Protocol](./110788624.md) 
-| Measuring the Hydrodynamic Size of Nanoparticles in Aqueous Media Using Batch-Mode Dynamic Light Scattering | [Protocol](./112852992.md) 
-| Characterization of Nanoparticles by Matrix Assisted Laser Desorption Ionization Time-of-Flight Mass Spectrometry | [Protocol](./112852993.md) 
-| Zeta Potential Measurement | [Protocol](./112852994.md) 
-| Biological Tissue and Cell Culture Specimen Preparation for TEM Nanoparticle Characterization | [Protocol](./112852995.md) 
-| SEM X-Ray Microanalysis of Nanoparticles Present in Tissue or Cultured Cell Thin Sections | [Protocol](./112852996.md) 
-| Detecting and Measuring Free Gadolinium in Nanoparticles for MRI Imaging | [Protocol](./112852997.md) 
-| Lipid Component Quantitation by Thin Layer Chromatography | [Protocol](./112852998.md) 
-| Detection and Quantitative Evaluation of Endotoxin Contamination in Nanoparticle Formulations by LAL-Based Assays | [Protocol](./112852999.md) 
-| NCL Method STE-2.1: Detection of Microbial Contamination Using Millipore Sampler Devices | [Protocol](./112853000.md) 
-| Gold Nanoparticle Quantitation via Fluorescence in Solution and Cell Culture | [Protocol](./112853002.md) 
-| Evaluation of Cytotoxicity of Nanoparticulate Materials in Porcine Kidney Cells and Human Hepatocarcinoma Cells | [Protocol](./112853003.md) 
-| Monitoring Nanoparticle-Treated Hepatocarcinoma Cells for Apoptosis | [Protocol](./112853004.md) 
-| Detecting Reactive Oxygen Species in Primary Hepatocytes Treated with Nanoparticles | [Protocol](./112853005.md) 
-| Assay to Detect Lipid Peroxidation upon Exposure to Nanoparticles | [Protocol](./112853006.md) 
-| Monitoring Glutathione Homeostasis in Nanoparticle-Treated Hepatocytes | [Protocol](./112853008.md) 
-| Autophagy Monitoring Assay: Qualitative Analysis of MAP LC3-I to II Conversion by Immunoblot | [Protocol](./112853009.md) 
-| Monitoring Lysosomal Activity in Nanoparticle-Treated Cells | [Protocol](./112853010.md) 
-| Method for Analysis of Nanoparticle Hemolytic Properties In Vitro | [Protocol](./112853011.md) 
-| Method for In Vitro Analysis of Nanoparticle Thrombogenic Properties | [Protocol](./112853012.md) 
-| Qualitative Analysis of Total Complement Activation by Nanoparticles | [Protocol](./112853013.md) 
-| Method for Analysis of Nanoparticle Effects on Cellular Chemotaxis | [Protocol](./112853014.md) 
-| In Vitro Analysis of Nanoparticle Uptake by Macrophages Using Chemiluminescence | [Protocol](./112853015.md) 
-| NCL Method STE-2.3: Detection of Bacterial Contamination Using Tryptic Soy Broth Agar Plates | [Protocol](./114130946.md) 
-| NCL Method STE-2.4: Detection of Bacterial Contamination using Tryptic Soy Agar Plates and RPMI Suspension Tests for the Purposes of Determining Bacterial ID | [Protocol](./114130947.md) 
-| Endotoxin and Depyrogenation Tips | [Protocol](./114130949.md) 
-| NCL Method PCC-21: Measuring Size and Number Concentration of Metallic Nanoparticles using SP-ICP-MS | [Protocol](./114130950.md) 
-| NCL Method PCC-22: Residual Organic Solvent Analysis in Nanoformulations Using Headspace Gas Chromatography | [Protocol](./114130951.md) 
-| NCL Method PCC-20: Particle Concentration and Size using the Spectradyne nCS1 | [Protocol](./114130952.md) 
-| Detection of Endotoxin in Nano-formulations Using Limulus Amoebocyte Lysate (LAL) Assays | [Protocol](./114130953.md) 
-| Parameters, Methods, and Considerations for the Physicochemical Characterization of Liposomal Products | [Protocol](./114130954.md) 
-| Parameters, Methods, and Considerations for the Physicochemical Characterization of Colloidal Metal Nanoparticles | [Protocol](./114130955.md) 
-| Parameters, Methods, and Considerations for the Physicochemical Characterization of Polymeric Nanoparticles | [Protocol](./114130956.md) 
-| Guide to NCL In Vivo Studies: Efficacy, Pharmacokinetics and Toxicology | [Protocol](./114130957.md) 
-| NCL Method ITA-36: Detection of Naturally Occurring Antibodies to PEG and PEGylated Liposomes in Plasma of Human Donor Volunteers | [Protocol](./114130958.md) 
-| NCL Method ITA-29: Detection of Nanoparticles' Ability to Stimulate Toll-Like Receptors Using HEK-Blue Reporter Cell Lines | [Protocol](./114130959.md) 
-| NCL Method ITA-37.1: Immunophenotyping‚ÄîInstrument Calibration and Reagent Qualification for Immunophenotyping Analysis of Human Peripheral Blood Mononuclear Cell Cultures | [Protocol](./114130960.md) 
-| NCL Method ITA-37.2: Immunophenotyping‚ÄîAnalysis of Nanoparticle Effects on the Composition and Activation Status of Human Peripheral Blood Mononuclear Cells | [Protocol](./114130961.md) 
-| NCL Method ITA-40: Understanding the Role of Scavenger Receptor A1 in Nanoparticle Uptake by Murine Macrophages | [Protocol](./114130962.md) 
-| NCL Method STE-4: Detection of Œ?-glucan contamination | [Protocol](./114130963.md) 
-| CD34+ CD90+ Digital Magnetic Cell Sorting Assay | [Protocol](./114130964.md) 
-| CPMV-S100A9 Vaccination and Antibody Titers | [Protocol](./114130966.md) 
-| Qbeta-S100A9 Vaccination and Antibody Titers | [Protocol](./114130967.md) 
-| CPMV-S100A9 Production | [Protocol](./114130968.md) 
-| Qbeta-S100A9 Production Protocol | [Protocol](./114130969.md) 
-| Qbeta-S100A9 Tumor Metastasis Assays | [Protocol](./114130970.md) 
-| CPMV-S100A9 Agarose Gel Electrophoresis Protocol | [Protocol](./114130973.md) 
-| Qbeta-S100A9 Agarose Gel Electrophoresis Protocol | [Protocol](./114130974.md) 
-| Qbeta-S100A9 DLS Protocol | [Protocol](./114130975.md) 
-| Qbeta-S100A9 FPLC Protocol | [Protocol](./114130976.md) 
-| Qbeta-S100A9 SDS-PAGE Protocol | [Protocol](./114130977.md) 
-| Qbeta-S100A9 TEM Protocol | [Protocol](./114130978.md) 
-| CPMV-S100A9 DLS Protocol | [Protocol](./114130979.md) 
-| CPMV-S100A9 SDS-PAGE Protocol | [Protocol](./114130981.md) 
-| CPMV-S100A9 TEM Protocol | [Protocol](./114130982.md) 
-| CPMV-S100A9 UV-VIS Protocol | [Protocol](./114130983.md) 
-| Qbeta-S100A9 Lung Cytokine Quantitation Protocol | [Protocol](./114130984.md) 
-| Qbeta-S100A9 Lung MDSC Quantitation Protocol | [Protocol](./114130985.md) 
-| Qbeta-S100A9 Lung Bacterial Load | [Protocol](./114130986.md) 
-| CPMV-S100A9 Lung Metastasis Model Protocol | [Protocol](./114130987.md) 
-| NCL Method STE-3: Detection of Mycoplasma Contamination in Nanoparticle Formulations | [Protocol](./114130988.md) 
-| NCL Method STE-1.4: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Kinetic Chromogenic LAL Assay | [Protocol](./114130989.md) 
-| NCL Method STE-1.3: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Gel-Clot LAL Assay | [Protocol](./114130990.md) 
-| NCL Method STE-1.2: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Kinetic Turbidity LAL Assay | [Protocol](./114130991.md) 
-| NCL Method STE-1.1: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the End Point Chromogenic LAL Assay | [Protocol](./114130992.md) 
-| NIST-NCL Joint Assay Protocol, PCC-1: Measuring the Size of Nanoparticles in Aqueous Media Using Batch-Mode Dynamic Light Scattering | [Protocol](./114130993.md) 
-| NIST-NCL Joint Assay Protocol, PCC-6: Size Measurement of Nanoparticles Using Atomic Force Microscopy | [Protocol](./114130994.md) 
-| NIST-NCL Joint Assay Protocol, PCC-7: Measuring the Size of Nanoparticles Using Transmission Electron Microscopy (TEM) | [Protocol](./114130995.md) 
-| NIST-NCL Joint Assay Protocol, PCC-8: Determination of Gold in Rat Tissue with Inductively Coupled Plasma Mass Spectrometry | [Protocol](./114130996.md) 
-| NIST-NCL Joint Assay Protocol, PCC-9: Determination of Gold in Rat Blood with Inductively Coupled Plasma Mass Spectrometry | [Protocol](./114130997.md) 
-| NIST-NCL Joint Assay Protocol, PCC-10: Analysis of Gold Nanoparticles by Electrospray Differential Mobility Analysis (ES-DMA) | [Protocol](./114130998.md) 
-| NIST-NCL Joint Assay Protocol, PCC-11: Method for Determination of the Mass Fraction of Particle-Bound Gold in Suspensions of Gold Nanoparticles | [Protocol](./114130999.md) 
-| NIST-NCL Joint Assay Protocol, PCC-12: Measuring the Electrolytic Conductivity of Nanoparticle Suspensions | [Protocol](./114131000.md) 
-| NIST-NCL Joint Assay Protocol, PCC-13: Measuring the pH of Nanoparticle Suspensions | [Protocol](./114131001.md) 
-| NIST-NCL Joint Assay Protocol, PCC-15: Measuring the Size of Colloidal Gold Nano-particles using HighResolution Scanning Electron Microscopy | [Protocol](./114131002.md) 
-| NIST-NCL Joint Assay Protocol, PCC-14: Quantification of Free and Chelated Gadolinium Species in Nanoemulsion-Based Magnetic Resonance Imaging Contrast Agent Formulations | [Protocol](./114131003.md) 
-| NCL Method PCC-23: Quantitation of Residual DMSO in Nanoformulations Using Gas Chromatography with Direct Injection and Flame Ionization Detection | [Protocol](./114131004.md) 
-| NCL Method PHA-1: Radioactive Blood Partitioning Assay | [Protocol](./114131005.md) 
-| NCL Method PHA-2: Ultrafiltration Drug Release Assay Utilizing a Stable Isotope Tracer | [Protocol](./114131006.md) 
-| NCL Method GTA-1: LLC-PK1 Kidney Cytotoxicity Assay | [Protocol](./114131007.md) 
-| NCL Method GTA-2: Hep G2 Hepatocarcinoma Cytotoxicity Assay | [Protocol](./114131008.md) 
-| NCL Method GTA-3: Hep G2 Hepatocyte Glutathione Assay | [Protocol](./114131009.md) 
-| NCL Method GTA-4: Hep G2 Hepatocyte Lipid Peroxidation Assay | [Protocol](./114131010.md) 
-| NCL Method GTA-5: LLC-PK1 Kidney Cell Apoptosis Assay | [Protocol](./114131011.md) 
-| NCL Method GTA-6: HepG2 Hepatocarcinoma Apoptosis Assay | [Protocol](./114131012.md) 
-| NCL Method GTA-7: Hepatocyte Primary ROS Assay | [Protocol](./114131013.md) 
-| NCL Method GTA-11: Autophagic Dysfunction Assay‚ÄîQualitative Analysis of MAP LC3-I to LC3-II Conversion by Western Blot | [Protocol](./114131014.md) 
-| NCL Method GTA-12: Autophagic Dysfunction in LLC-PK1 Cells | [Protocol](./114131015.md) 
-| NCL Method GTA-14: Hep G2 Hepatocarcinoma Homogeneous Apoptosis Assay | [Protocol](./114131016.md) 
-| NCL Method ITA-7: Detection of Nitric Oxide Production by the Macrophage Cell Line RAW264.7 | [Protocol](./114131017.md) 
-| NCL Method ITA-14: Analysis of Nanoparticle Effects on Maturation of Monocyte Derived Dendritic Cells In Vitro | [Protocol](./114131018.md) 
-| NCL Method ITA-26: Detection of Intracellular Complement Activation in Human T Lymphocytes | [Protocol](./114131019.md) 
-| NCL Method ITA-31: Detection of Nanoparticle-Mediated Total Oxidative Stress in T Cells Using CM-H2DC-FDA Dye | [Protocol](./114131020.md) 
-| NCL Method ITA-32: Detection of Mitochondrial Oxidative Stress in T Cells Using MitoSOX Red Dye | [Protocol](./114131021.md) 
-| NCL Method ITA-33: Detection of Changes in Mitochondrial Membrane Potential in T Cells Using JC-1 Dye | [Protocol](./114131022.md) 
-| NCL Method ITA-34: Detection of Antigen Presentation by Murine Bone Marrow-Derived Dendritic Cells | [Protocol](./114131023.md) 
-| NCL Method ITA-35: Antigen-Specific Stimulation of CD8+ T Cells by Murine Bone Marrow-Derived Dendritic Cells | [Protocol](./114131024.md) 
-| Size Measurement of Nanoparticles Using Atomic Force Microscopy | [Protocol](./114131025.md) 
-| Analysis of Microbial Contamination in Nanoparticle Formulations | [Protocol](./114131026.md) 
-| Quantitation of Nanoparticles in Serum Matrix by Capillary Electrophoresis | [Protocol](./114131027.md) 
-| Detection of Bacterial Contamination in Nanoparticle Formulations by Agar Plate Test | [Protocol](./114131028.md) 
-| Immunoelectron Microscopy for Visualization of Nanoparticles | [Protocol](./114131029.md) 
-| Imaging of Liposomes by Transmission Electron Microscopy | [Protocol](./114131030.md) 
-| Nanoparticle Size Distribution and Stability Assessment Using Asymmetric-Flow Field-Flow Fractionation | [Protocol](./114131031.md) 
-| Assessment of Protein Binding Using Asymmetric-Flow Field-Flow Fractionation Combined with Multi-angle Light Scattering and Dynamic Light Scattering | [Protocol](./114131032.md) 
-| Quantitation of Active Pharmaceutical Ingredients in Polymeric Drug Products Using Elemental Analysis | [Protocol](./114131033.md) 
-| Particle Size and Concentration Measurement Using the Spectradyne nCS1 Instrument | [Protocol](./114131034.md) 
-| Measuring Size and Number Concentration of Metallic Nanoparticles Using spICP-MS | [Protocol](./114131035.md) 
-| Ion Quantitation in Liposomal Products Using RP-HPLC with Charged Aerosol Detection | [Protocol](./114131036.md) 
-| A Static Headspace Gas Chromatography Method for Quantitation of Residual Solvents in Nanoformulations | [Protocol](./114131037.md) 
-| Current Considerations and Practical Solutions for Overcoming Nanoparticle Interference with LAL Assays and Minimizing Endotoxin Contamination | [Protocol](./114131038.md) 
-| Detection of Beta-Glucan Contamination in Nanoparticle Formulations | [Protocol](./114131039.md) 
-| Detection of Intracellular Complement Activation by Nanoparticles in Human T Lymphocytes | [Protocol](./114131040.md) 
-| Analysis of Nanoparticles‚Äô Potential to Induce Autoimmunity | [Protocol](./114131041.md) 
-| Analysis of Nanoparticles‚Äô Effects on Drug-Induced Psoriasis | [Protocol](./114131042.md) 
-| Detection of Nanoparticle-Mediated Total Oxidative Stress in T Cells Using CM-H2DCFDA Dye | [Protocol](./114131043.md) 
-| Detection of Induction of Mitochondrial Oxidative Stress by Nanoparticles in T Cells Using MitoSOX Red Dye | [Protocol](./114131044.md) 
-| Detection of Nanoparticle-Mediated Change in Mitochondrial Membrane Potential in T Cells Using JC-1 Dye | [Protocol](./114131045.md) 
-| Detection of Antigen Presentation by Murine Bone Marrow‚ÄìDerived Dendritic Cells After Treatment with Nanoparticles | [Protocol](./114131046.md) 
-| Antigen-Specific Stimulation of CD8+ T Cells by Murine Bone Marrow‚ÄìDerived Dendritic Cells After Treatment with Nanoparticles | [Protocol](./114131047.md) 
-| Detection of Pre-Existing Antibodies to Polyethylene Glycol and PEGylated Liposomes in Human Serum | [Protocol](./114131048.md) 
-| In Vitro and In Vivo Methods for Analysis of Nanoparticles' Potential to Induce Delayed-Type Hypersensitivity Reactions | [Protocol](./114131049.md) 
-| Analysis of Nanoparticle Adjuvant Properties | [Protocol](./114131050.md) 
-| Methods for Analysis of Nanoparticle Immunosuppressive Properties | [Protocol](./114131051.md) 
-| Evaluation of the Acute Anaphylactoid Reactogenicity of Nanoparticle-Containing Medicines and Vaccines Using the Porcine CARPA Model | [Protocol](./114131052.md) 
-| Immunophenotyping, Part I: Instrument Calibration and Reagent Qualification for Immunophenotyping Analysis of Human Peripheral Blood Mononuclear Cell Cultures | [Protocol](./114131053.md) 
-| Immunophenotyping, Part II: Analysis of Nanoparticle Effects on the Composition and Activation Status of Human Peripheral Blood Mononuclear Cells | [Protocol](./114131054.md) 
-| Understanding the Role of Scavenger Receptor A1 in Nanoparticle Uptake by Murine Macrophages | [Protocol](./114131055.md) 
-| Assessment of Temperature-Dependent Drug Release of Solubilizing Nanoformulations Using the SITUA | [Protocol](./114131056.md) 
-| Evaluation of Nanomedicine Tissue Distribution and Stability by Alexa Fluor 488 and PEG Immunohistochemistry | [Protocol](./114131057.md) 
-| NCL Video Protocol: Dynamic Light Scattering | [Protocol](./114131058.md) 
-| NCL Method STE-1.1: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the End Point Chromogenic LAL Assay | [Protocol](./114131059.md) 
-| NCL Method STE-1.3: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Gel-Clot LAL Assay | [Protocol](./114131060.md) 
-| NCL Method STE-1.4: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Kinetic Chromogenic LAL Assay | [Protocol](./114131061.md) 
-| NCL Method STE-2.1: Detection of Microbial Contamination Using Millipore Sampler Devices | [Protocol](./114131062.md) 
-| NCL Method STE-2.2: Detection of Bacterial Contamination Using Luria Broth Agar Plates | [Protocol](./114131063.md) 
-| NCL Method STE-3: Detection of Mycoplasma Contamination in Nanoparticle Formulations | [Protocol](./114131064.md) 
-| Endotoxin and Depyrogenation Tips | [Protocol](./114131065.md) 
-| NCL Method STE-1.2: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Kinetic Turbidity LAL Assay | [Protocol](./114131066.md) 
-| NCL Method STE-3: Detection of Mycoplasma Contamination in Nanoparticle Formulations | [Protocol](./114131067.md) 
-| NCL Method STE-3: Detection of Mycoplasma Contamination in Nanoparticle Formulations | [Protocol](./114131068.md) 
-| Endotoxin and Depyrogenation Tips | [Protocol](./114131069.md) 
-| NCL Method PCC-2: Measuring Zeta Potential of Nanoparticles | [Protocol](./114131070.md) 
-| NCL Method PCC-2: Measuring Zeta Potential of Nanoparticles | [Protocol](./114131071.md) 
-| Supplement to NIST-NCL Joint Assay Protocols PCC-8 & PCC-9: Metal Quantitation by Inductively Coupled Plasma-Mass Spectrometry | [Protocol](./114131072.md) 
-| NCL Method PCC-16: Quantitation of PEG on PEGylated Gold Nanoparticles Using Reversed Phase High Performance Liquid Chromatography and Charged Aerosol Detection | [Protocol](./114131073.md) 
-| NCL Method PCC-17: Quantitation of Nanoparticle Composition Using Thermogravimetric Analysis | [Protocol](./114131074.md) 
-| NCL Method PCC-18: Quantitation of APIs in Polymeric Prodrug Formulations | [Protocol](./114131075.md) 
-| NCL Method PCC-19: Asymmetric-Flow Field-Flow Fractionation | [Protocol](./114131076.md) 
-| NCL Method PCC-20: Particle Concentration and Size using the Spectradyne nCS1 | [Protocol](./114131077.md) 
-| NCL Method ITA-1: Analysis of Hemolytic Properties of Nanoparticles | [Protocol](./114131078.md) 
-| NCL Method ITA-1: Analysis of Hemolytic Properties of Nanoparticles | [Protocol](./114131079.md) 
-| NCL Method ITA-2.1: Analysis of Platelet Aggregation by Cell Counting | [Protocol](./114131080.md) 
-| NCL Method ITA-2.1: Analysis of Platelet Aggregation by Cell Counting | [Protocol](./114131081.md) 
-| NCL Method ITA-2.2: Analysis of Platelet Aggregation by Light Transmission Aggregometry | [Protocol](./114131082.md) 
-| NCL Method ITA-2.2: Analysis of Platelet Aggregation by Light Transmission Aggregometry | [Protocol](./114131083.md) 
-| NCL Method ITA-3: Mouse Granulocyte-Macrophage Colony-Forming Unit Assay | [Protocol](./114131084.md) 
-| NCL Method ITA-3: Mouse Granulocyte-Macrophage Colony-Forming Unit Assay | [Protocol](./114131085.md) 
-| NCL Method ITA-4: Analysis of Nanoparticle Interaction with Plasma Proteins by 2D PAGE | [Protocol](./114131086.md) 
-| NCL Method ITA-4: Analysis of Nanoparticle Interaction with Plasma Proteins by 2D PAGE | [Protocol](./114131087.md) 
-| NCL Method ITA-5.1: Qualitative Analysis of Total Complement Activation by Western Blot | [Protocol](./114131088.md) 
-| NCL Method ITA-5.1: Qualitative Analysis of Total Complement Activation by Western Blot | [Protocol](./114131089.md) 
-| NCL Method ITA-5.2: Analysis of Complement Activation by Single-Plex EIA or Multiplex ELISA | [Protocol](./114131090.md) 
-| NCL Method ITA-6: Leukocyte Proliferation Assay | [Protocol](./114131091.md) 
-| NCL Method ITA-6.1: Leukocyte Proliferation Assay (Immunostimulation and Immunosuppression) | [Protocol](./114131092.md) 
-| NCL Method ITA-6.2: Leukocyte Proliferation Assay (Immunostimulation) | [Protocol](./114131093.md) 
-| NCL Method ITA-6.3: Leukocyte Proliferation Assay (Immunosuppression) | [Protocol](./114131094.md) 
-| NCL Method ITA-7: Detection of Nitric Oxide Production by the Macrophage Cell Line RAW264.7 | [Protocol](./114131095.md) 
-| NCL Method ITA-8: Chemotaxis Assay | [Protocol](./114131096.md) 
-| NCL Method ITA-8.1: Chemotaxis Assay | [Protocol](./114131097.md) 
-| NCL Method ITA-8.2: Analysis of Nanoparticle Chemoattractant Properties Using Label-Free, Real-Time Chemotaxis Assay | [Protocol](./114131098.md) 
-| NCL Method ITA-9: Phagocytosis Assay | [Protocol](./114131099.md) 
-| NCL Method ITA-9.1: Phagocytosis Assay | [Protocol](./114131100.md) 
-| NCL Method ITA-9.2: In Vitro Assay for Assessing Nanoparticle Effects on Monocyte/Macrophage Phagocytic Function | [Protocol](./114131101.md) 
-| NCL Method ITA-10: Preparation of Human Whole Blood and Peripheral Blood Mononuclear Cell Cultures to Analyze Nanoparticle Potential to Induce Cytokines In Vitro | [Protocol](./114131102.md) 
-| NCL Method ITA-11: Measurement of Nanoparticle Effects on Cytotoxic Activity of NK Cells by Label-Free RT-CES System | [Protocol](./114131103.md) 
-| NCL Method ITA-11: Measurement of Nanoparticle Effects on Cytotoxic Activity of NK Cells by Label-Free RT-CES System | [Protocol](./114131104.md) 
-| NCL Method ITA-12: In Vitro Analysis of Nanoparticle Effects on Plasma Coagulation Time | [Protocol](./114131105.md) 
-| NCL Method ITA-12: In Vitro Analysis of Nanoparticle Effects on Plasma Coagulation Time | [Protocol](./114131106.md) 
-| NCL Method ITA-14: Analysis of Nanoparticle Effects on Maturation of Monocyte Derived Dendritic Cells In Vitro | [Protocol](./114131107.md) 
-| NCL Method ITA-14: Analysis of Nanoparticle Effects on Maturation of Monocyte Derived Dendritic Cells In Vitro | [Protocol](./114131108.md) 
-| NCL Method ITA-17: Analysis of Nanoparticle Effects on Leukocyte Procoagulant Activity | [Protocol](./114131109.md) 
-| NCL Method ITA-17: Analysis of Nanoparticle Effects on Leukocyte Procoagulant Activity | [Protocol](./114131110.md) 
-| NCL Method ITA-18: Human Lymphocyte Activation (HuLa) Assay for Analysis of Immunosuppressive Properties of Nanomaterials | [Protocol](./114131111.md) 
-| NCL Method ITA-18: Human Lymphocyte Activation (HuLa) Assay for Analysis of Immunosuppressive Properties of Nanomaterials | [Protocol](./114131112.md) 
-| NCL Method ITA-22: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IL-8 in Culture Supernatants | [Protocol](./114131113.md) 
-| NCL Method ITA-22: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IL-8 in Culture Supernatants | [Protocol](./114131114.md) 
-| NCL Method ITA-23: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IL-1Œ? in Culture Supernatants | [Protocol](./114131115.md) 
-| NCL Method ITA-23: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IL-1Œ? in Culture Supernatants | [Protocol](./114131116.md) 
-| NCL Method ITA-24: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human TNFŒ± in Culture Supernatants | [Protocol](./114131117.md) 
-| NCL Method ITA-24: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human TNFŒ± in Culture Supernatants | [Protocol](./114131118.md) 
-| NCL Method ITA-25: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IFNŒ? in Culture Supernatants | [Protocol](./114131119.md) 
-| NCL Method ITA-25: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IFNŒ? in Culture Supernatants | [Protocol](./114131120.md) 
-| NCL Method ITA-27: Multiplex Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human Cytokines in Culture Supernatants | [Protocol](./114131121.md) 
-| NCL Method ITA-29: Detection of Nanoparticles' Ability to Stimulate Toll-Like Receptors Using HEK-Blue Reporter Cell Lines | [Protocol](./114131122.md) 
-| NCL Method ITA-36: Detection of Naturally Occurring Antibodies to PEG and PEGylated Liposomes in Plasma of Human Donor Volunteers | [Protocol](./114131123.md) 
-| NCL Method ITA-36: Detection of Naturally Occurring Antibodies to PEG and PEGylated Liposomes in Plasma of Human Donor Volunteers | [Protocol](./114131124.md) 
-| NCL Method ITA-37.1: Immunophenotyping‚ÄîInstrument Calibration and Reagent Qualification for Immunophenotyping Analysis of Human Peripheral Blood Mononuclear Cell Cultures | [Protocol](./114131125.md) 
-| NCL Method ITA-37.1: Immunophenotyping‚ÄîInstrument Calibration and Reagent Qualification for Immunophenotyping Analysis of Human Peripheral Blood Mononuclear Cell Cultures | [Protocol](./114131126.md) 
-| NCL Method ITA-37.2: Immunophenotyping‚ÄîAnalysis of Nanoparticle Effects on the Composition and Activation Status of Human Peripheral Blood Mononuclear Cells | [Protocol](./114131127.md) 
-| NCL Method ITA-37.2: Immunophenotyping‚ÄîAnalysis of Nanoparticle Effects on the Composition and Activation Status of Human Peripheral Blood Mononuclear Cells | [Protocol](./114131128.md) 
-| NCL Method ITA-40: Understanding the Role of Scavenger Receptor A1 in Nanoparticle Uptake by Murine Macrophages | [Protocol](./114131129.md) 
-| NCL Method IEA-1: Analysis of Nanoparticle Effects on Invasion of Cancer Cells | [Protocol](./114131130.md) 
-| NCL Method GTA-1: LLC-PK1 Kidney Cytotoxicity Assay | [Protocol](./114131131.md) 
-| NCL Method GTA-1: LLC-PK1 Kidney Cytotoxicity Assay | [Protocol](./114131132.md) 
-| NCL Method GTA-2: Hep G2 Hepatocarcinoma Cytotoxicity Assay | [Protocol](./114131133.md) 
-| NCL Method GTA-3: Hep G2 Hepatocyte Glutathione Assay | [Protocol](./114131134.md) 
-| NCL Method GTA-4: Hep G2 Hepatocyte Lipid Peroxidation Assay | [Protocol](./114131135.md) 
-| NCL Method GTA-5: LLC-PK1 Kidney Cell Apoptosis Assay | [Protocol](./114131136.md) 
-| NCL Method GTA-6: HepG2 Hepatocarcinoma Apoptosis Assay | [Protocol](./114131137.md) 
-| NCL Method GTA-7: Hepatocyte Primary ROS Assay | [Protocol](./114131138.md) 
-| NCL Method GTA-11: Autophagic Dysfunction Assay‚ÄîQualitative Analysis of MAP LC3-I to LC3-II Conversion by Western Blot | [Protocol](./114131139.md) 
-| NCL Method GTA-12: Autophagic Dysfunction in LLC-PK1 Cells | [Protocol](./114131140.md) 
-| NCL Method GTA-13: In Vitro Blood Partitioning Assay | [Protocol](./114131141.md) 
-| NCL Method GTA-14: Hep G2 Hepatocarcinoma Homogeneous Apoptosis Assay | [Protocol](./114131142.md) 
-| NCL Method PHA-1: Radioactive Blood Partitioning Assay | [Protocol](./114131143.md) 
-| NCL Method PHA-2: Ultrafiltration Drug Release Assay Utilizing a Stable Isotope Tracer | [Protocol](./114131144.md) 
-| Plasmid Design (pCMV-T7-CPMVRNA2) | [Protocol](./114131145.md) 
-| NCL Method STE-1.1: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the End Point Chromogenic LAL Assay | [Protocol](./114131146.md) 
-| NCL Method STE-1.4: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Kinetic Chromogenic LAL Assay | [Protocol](./114131147.md) 
-| NCL Method STE-1.3: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Gel-Clot LAL Assay | [Protocol](./114131148.md) 
-| NCL Method STE-1.2: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Kinetic Turbidity LAL Assay | [Protocol](./114131149.md) 
-| NIST-NCL Joint Assay Protocol, PCC-11: Method for Determination of the Mass Fraction of Particle-Bound Gold in Suspensions of Gold Nanoparticles | [Protocol](./114131150.md) 
-| NCL Method PCC-17: Quantitation of Nanoparticle Composition Using Thermogravimetric Analysis | [Protocol](./114131151.md) 
-| NCL Method PCC-20: Particle Concentration and Size using the Spectradyne nCS1 | [Protocol](./114131152.md) 
-| Parameters, Methods, and Considerations for the Physicochemical Characterization of Liposomal Products | [Protocol](./114131153.md) 
-| Parameters, Methods, and Considerations for the Physicochemical Characterization of Colloidal Metal Nanoparticles | [Protocol](./114131154.md) 
-| Parameters, Methods, and Considerations for the Physicochemical Characterization of Polymeric Nanoparticles | [Protocol](./114131155.md) 
-| NCL Method ITA-4: Analysis of Nanoparticle Interaction with Plasma Proteins by 2D PAGE | [Protocol](./114131156.md) 
-| NCL Method ITA-5.1: Qualitative Analysis of Total Complement Activation by Western Blot | [Protocol](./114131157.md) 
-| NCL Method ITA-6.1: Leukocyte Proliferation Assay (Immunostimulation and Immunosuppression) | [Protocol](./114131158.md) 
-| NCL Method ITA-6.2: Leukocyte Proliferation Assay (Immunostimulation) | [Protocol](./114131159.md) 
-| NCL Method ITA-6.3: Leukocyte Proliferation Assay (Immunosuppression) | [Protocol](./114131160.md) 
-| NCL Method ITA-10: Preparation of Human Whole Blood and Peripheral Blood Mononuclear Cell Cultures to Analyze Nanoparticle Potential to Induce Cytokines In Vitro | [Protocol](./114131161.md) 
-| NCL Method ITA-18: Human Lymphocyte Activation (HuLa) Assay for Analysis of Immunosuppressive Properties of Nanomaterials | [Protocol](./114131162.md) 
-| NCL Method GTA-2: Hep G2 Hepatocarcinoma Cytotoxicity Assay | [Protocol](./114131163.md) 
-| NCL Method GTA-11: Autophagic Dysfunction Assay‚ÄîQualitative Analysis of MAP LC3-I to LC3-II Conversion by Western Blot | [Protocol](./114131164.md) 
-| Endotoxin and Depyrogenation Guide | [Protocol](./114131165.md) 
-| NCL Method ITA-38: Analysis of Nanoparticle Effects on IgE-Dependent Mast Cell Degranulation  | [Protocol](./114131166.md) 
-| NCL Method ITA-10: Preparation of Human Whole Blood and Peripheral Blood Mononuclear Cell Cultures to Analyze Nanoparticle Potential to Induce Cytokines In Vitro | [Protocol](./114131167.md) 
-| NCL Method ITA-38: Analysis of Nanoparticle Effects on IgE-Dependent Mast Cell Degranulation  | [Protocol](./114131168.md) 
-| CPMV-CH401 & QŒ?-CH401 Production | [Protocol](./114131169.md) 
-| CPMV-CH401 & QŒ?-CH401 Agarose Gel Electrophoresis | [Protocol](./114131170.md) 
-| CPMV-CH401 & QŒ?-CH401 DLS | [Protocol](./114131172.md) 
-| CPMV-CH401 & QŒ?-CH401 SDS-PAGE | [Protocol](./114131173.md) 
-| CPMV-CH401 & QŒ?-CH401 TEM | [Protocol](./114131174.md) 
-| CPMV-CH401 & QŒ?-CH401 In Vivo Efficacy Studies | [Protocol](./114131175.md) 
-| CPMV-CH401 & QŒ?-CH401 Antibody Assays | [Protocol](./114131176.md) 
-| CPMV-CH401 & QŒ?-CH401 Cytokine Assays | [Protocol](./114131177.md) 
-| Purified CPMV Agarose Gel Electrophoresis Protocol | [Protocol](./114131179.md) 
-| Purified CPMV SDS-PAGE Protocol | [Protocol](./114131180.md) 
-| Purified CPMV Dynamic Light Scattering (DLS) Protocol | [Protocol](./114131181.md) 
-| Purified CPMV Fast Protein Liquid Chromatography (FPLC) Protocol | [Protocol](./114131182.md) 
-| Purified CPMV Transmission Electron Microscopy (TEM) Protocol  | [Protocol](./114131183.md) 
-| Purified CPMV UV-Vis Protocol | [Protocol](./114131184.md) 
-| B16F10 tumor inoculation and intratumoral treatment | [Protocol](./114131185.md) 
-| Purified CPMV Cytokine Assay Protocol | [Protocol](./114131186.md) 
-| A20 Lymphoma Tumor Model Protocol | [Protocol](./114131187.md) 
-| CPMV Mass spectrometry analysis | [Protocol](./114131188.md) 
-| CPMV propagation | [Protocol](./114131189.md) 
-| Flow cytometry CPMV detection | [Protocol](./114131190.md) 
-| RNA Fluorescent in situ Hybridization multiplexed with Immunofluorescence | [Protocol](./114131191.md) 
-| RT-PCR for CPMV RNA detection | [Protocol](./114131192.md) 
-| ELISpot Protocol | [Protocol](./114131193.md) 
-| Western Blot and dot blot for CPMV | [Protocol](./114131194.md) 
-| Immunofluorescence Staining Assay Protocol | [Protocol](./114131195.md) 
-| Flow Cytometry for Cy5-CPMV and Cy5-PVX | [Protocol](./114131196.md) 
-| NCL Method ITA-9.2: In Vitro Assay for Assessing Nanoparticle Effects on Monocyte/Macrophage Phagocytic Function | [Protocol](./114131197.md) 
+| NIST - NCL Joint Assay Protocol, PCC-10 | [Protocol](./29949954.md) |
+| NEU-MAmiji - Video Protocol on Therapeutic Gene Delivery and Transfection in Human Pancreatic Cancer Cells using EGFR-targeted Gelatin Nanoparticles | [Protocol](./40108033.md) |
+| UTSA-ZKereselidze - Video Protocol on Gold Nanostar Synthesis with a Silver Seed Mediated Growth Method | [Protocol](./40108034.md) |
+| VAMC-JDouglas - Video Protocol on Antibody Transfection into Neurons as a Tool to Study Disease Pathogenesis | [Protocol](./40108035.md) |
+| UWO-CFCho - Video Protocol on Evaluation of Nanoparticle Uptake in Tumors in Real Time Using Intravital Imaging | [Protocol](./40108036.md) |
+| CWRU-AWen - Video Protocol on Viral Nanoparticles for In vivo Tumor Imaging | [Protocol](./40108037.md) |
+| CU-AHughes - Video Protocol on Rapid Isolation of Viable Circulating Tumor Cells from Patient Blood Samples | [Protocol](./40108038.md) |
+| USC-JYHwang - Video Protocol on Analysis of Targeted Viral Protein Nanoparticles Delivered to HER2+ Tumors | [Protocol](./40108039.md) |
+| TU-SAhmadian - Video Protocol on Cellular Toxicity of Nanogenomedicine in MCF-7 Cell Line: MTT assay | [Protocol](./40108040.md) |
+| Large Scale Purification of RNA Nanoparticles by Preparative Ultracentrifugation | [Protocol](./57802752.md) |
+| Simple Method for Constructing RNA Triangle, Square, Pentagon by Tuning Interior RNA 3WJ Angle from 60 to 90 or 108 degrees | [Protocol](./57802753.md) |
+| Fabrication of pRNA nanoparticles to deliver therapeutic RNAs and bioactive compounds into tumor cells. | [Protocol](./57802754.md) |
+| Targeted Silica Nanoparticles for Image-Guided Intraoperative Sentinel Lymph Node Mapping in Head and Neck Melanoma, Breast, and Gynecologic Malignancies | [Protocol](./62226432.md) |
+| PET Imaging of Patients with Melanoma and Malignant Brain Tumors Using an 124I-labeled cRGD Silica Nanomolecular Particle Tracer: A Microdosing Study | [Protocol](./62226433.md) |
+| NCL Method ITA-2.2 | [Protocol](./62947328.md) |
+| Density Measurement | [Protocol](./69763072.md) |
+| Zeta Potential measurement | [Protocol](./70385664.md) |
+| Crystallite size XRD | [Protocol](./70385665.md) |
+| Particle Size with Nitrogen Adsorption and BET analysis | [Protocol](./70385677.md) |
+| Organic and Elemental Carbon (EC-OC) analysis | [Protocol](./70385678.md) |
+| FTIR analysis | [Protocol](./70385689.md) |
+| Trace metals analysis with ICP-MS | [Protocol](./70385696.md) |
+| X-Ray Photoelectron Spectroscopy  | [Protocol](./70385697.md) |
+| Transmission Electron Microscopy - Shape assessment | [Protocol](./70385698.md) |
+| Particle Size (Feret diameter) - TEM | [Protocol](./70385699.md) |
+| Primary Particle Size (Feret) Distribution - TEM | [Protocol](./70385700.md) |
+| Crystal Structure with X-ray diffraction  | [Protocol](./70385701.md) |
+| Endotoxin Assessment (rFC) | [Protocol](./70385719.md) |
+| WHO sterility test | [Protocol](./70385720.md) |
+| Porosity with Liquid Nitrogen Adsorption  | [Protocol](./70385721.md) |
+| Stoichiometry - molecular weight (X-ray spectroscopy) | [Protocol](./70385722.md) |
+| Stoichiometry Molecular weight - ICPMS | [Protocol](./70385723.md) |
+| Critical Delivered Sonication Energy - DLS | [Protocol](./70385724.md) |
+| Effective Density-VCM method | [Protocol](./70385725.md) |
+| Size Distribution of the Suspension - DLS | [Protocol](./70385726.md) |
+| Specific conductance-DLS | [Protocol](./70385727.md) |
+| Specific Surface Area | [Protocol](./70385728.md) |
+| SEM Imaging and Image Analysis | [Protocol](./70549504.md) |
+| Radiolabeling of Alpha MSH-PEG-Cy5-Cdots for PET-CT Imaging | [Protocol](./78610440.md) |
+| Zirconium 89 Radiolabeling of DFO-scFv-PEG-Cy5-Cornell Dots  | [Protocol](./78610441.md) |
+| Synthesis of DFO-ScFV-PEG-Cy5-Cornell Dots | [Protocol](./78610442.md) |
+| NCL Method STE-1.4 | [Protocol](./84475910.md) |
+| NCL Method PCC-2: Measuring Zeta Potential of Nanoparticles | [Protocol](./88539136.md) |
+| NCL Method PCC-16: Quantitation of PEG on PEGylated Gold Nanoparticles Using Reversed Phase High Performance Liquid Chromatography and Charged Aerosol Detection | [Protocol](./88539138.md) |
+| NCL Method PCC-18: Quantitation of APIs in Polymeric Prodrug Formulations | [Protocol](./88539139.md) |
+| NCL Method PCC-19: Asymmetric-Flow Field-Flow Fractionation | [Protocol](./88539140.md) |
+| NCL Method PCC-17: Quantitation of Nanoparticle Composition Using Thermogravimetric Analysis | [Protocol](./88539141.md) |
+| NCL Method ITA-1: Analysis of Hemolytic Properties of Nanoparticles | [Protocol](./88539142.md) |
+| NCL Method ITA-2.1: Analysis of Platelet Aggregation by Cell Counting | [Protocol](./88539143.md) |
+| NCL Method ITA-2.2: Analysis of Platelet Aggregation by Light Transmission Aggregometry | [Protocol](./88539144.md) |
+| NCL Method ITA-3: Mouse Granulocyte-Macrophage Colony-Forming Unit Assay | [Protocol](./88539145.md) |
+| NCL Method ITA-4: Analysis of Nanoparticle Interaction with Plasma Proteins by 2D PAGE | [Protocol](./88539146.md) |
+| NCL Method ITA-5.1: Qualitative Analysis of Total Complement Activation by Western Blot | [Protocol](./88539147.md) |
+| NCL Method ITA-5.2: Analysis of Complement Activation by Single-Plex EIA or Multiplex ELISA | [Protocol](./88539148.md) |
+| NCL Method ITA-6.1: Leukocyte Proliferation Assay (Immunostimulation and Immunosuppression) | [Protocol](./88539149.md) |
+| Supplement to NIST-NCL Joint Assay Protocols PCC-8 & PCC-9: Metal Quantitation by Inductively Coupled Plasma-Mass Spectrometry | [Protocol](./88834048.md) |
+| NCL Method ITA-6.2: Leukocyte Proliferation Assay (Immunostimulation) | [Protocol](./88834054.md) |
+| NCL Method IEA-1: Analysis of Nanoparticle Effects on Invasion of Cancer Cells | [Protocol](./88834056.md) |
+| NCL Method ITA-6.3: Leukocyte Proliferation Assay (Immunosuppression) | [Protocol](./88834057.md) |
+| NCL Method ITA-8.2: Analysis of Nanoparticle Chemoattractant Properties Using Label-Free, Real-Time Chemotaxis Assay | [Protocol](./88834059.md) |
+| NCL Method ITA-8.1: Chemotaxis Assay | [Protocol](./88834060.md) |
+| NCL Method ITA-9.1: Phagocytosis Assay | [Protocol](./88834061.md) |
+| NCL Method ITA-9.2: In Vitro Assay for Assessing Nanoparticle Effects on Monocyte/Macrophage Phagocytic Function | [Protocol](./88834062.md) |
+| NCL Method ITA-10: Preparation of Human Whole Blood and Peripheral Blood Mononuclear Cell Cultures to Analyze Nanoparticle Potential to Induce Cytokines In Vitro | [Protocol](./88834063.md) |
+| NCL Method ITA-18: Human Lymphocyte Activation (HuLa) Assay for Analysis of Immunosuppressive Properties of Nanomaterials | [Protocol](./88834064.md) |
+| NCL Method ITA-12: In Vitro Analysis of Nanoparticle Effects on Plasma Coagulation Time | [Protocol](./88834065.md) |
+| NCL Method ITA-17: Analysis of Nanoparticle Effects on Leukocyte Procoagulant Activity | [Protocol](./88834066.md) |
+| NCL Method ITA-11: Measurement of Nanoparticle Effects on Cytotoxic Activity of NK Cells by Label-Free RT-CES System | [Protocol](./88834067.md) |
+| NCL Method ITA-23: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IL-1Œ? in Culture Supernatants | [Protocol](./88834068.md) |
+| NCL Method ITA-24: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human TNFŒ± in Culture Supernatants | [Protocol](./88834069.md) |
+| NCL Method ITA-22: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IL-8 in Culture Supernatants | [Protocol](./88834070.md) |
+| NCL Method ITA-25: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IFNŒ? in Culture Supernatants | [Protocol](./88834071.md) |
+| In Vitro Toxicology Assay Kit, Lactic Dehydrogenase based  | [Protocol](./89751552.md) |
+| CellTiter 96 AQueous One Solution Cell Proliferation Assay | [Protocol](./89751553.md) |
+| NCL Method ITA-27: Multiplex Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human Cytokines in Culture Supernatants | [Protocol](./100335618.md) |
+| NCL Method STE-2.2: Detection of Bacterial Contamination Using Luria Broth Agar Plates | [Protocol](./110788608.md) |
+| Considerations and Some Practical Solutions to Overcome Nanoparticle Interference with LAL Assays and to Avoid Endotoxin Contamination in Nanoformulations | [Protocol](./110788609.md) |
+| Elemental Analysis in Biological Matrices Using ICP-MS | [Protocol](./110788610.md) |
+| PEG Quantitation Using Reversed-Phase High-Performance Liquid Chromatography and Charged Aerosol Detection | [Protocol](./110788611.md) |
+| Designing an In Vivo Efficacy Study of Nanomedicines for Preclinical Tumor Growth Inhibition | [Protocol](./110788612.md) |
+| Quantitation of Surface Coating on Nanoparticles Using Thermogravimetric Analysis | [Protocol](./110788613.md) |
+| Updated Method for In Vitro Analysis of Nanoparticle Hemolytic Properties | [Protocol](./110788614.md) |
+| In Vitro Assessment of Nanoparticle Effects on Blood Coagulation | [Protocol](./110788615.md) |
+| In Vitro Analysis of Nanoparticle Effects on the Zymosan Uptake by Phagocytic Cells | [Protocol](./110788616.md) |
+| Assessing NLRP3 Inflammasome Activation by Nanoparticles, in Characterization of nanoparticles intended for drug delivery | [Protocol](./110788617.md) |
+| Analysis of Complement Activation by Nanoparticles | [Protocol](./110788618.md) |
+| Methods for Analysis of Nanoparticle Immunosuppressive Properties In Vitro and In Vivo | [Protocol](./110788619.md) |
+| Analysis of Pro-inflammatory Cytokine and Type II Interferon Induction by Nanoparticles | [Protocol](./110788620.md) |
+| Analysis of Nanoparticle-Adjuvant Properties In Vivo | [Protocol](./110788621.md) |
+| In Vitro and In Vivo Methods for Analysis of Nanoparticle Potential to Induce Delayed-Type Hypersensitivity Reactions | [Protocol](./110788622.md) |
+| Autophagy Monitoring Assay II: Imaging Autophagy Induction in LLC-PK1 Cells Using GFP-LC3 Protein Fusion Construct | [Protocol](./110788623.md) |
+| Improved Ultrafiltration Method to Measure Drug Release from Nanomedicines Utilizing a Stable Isotope Tracer | [Protocol](./110788624.md) |
+| Measuring the Hydrodynamic Size of Nanoparticles in Aqueous Media Using Batch-Mode Dynamic Light Scattering | [Protocol](./112852992.md) |
+| Characterization of Nanoparticles by Matrix Assisted Laser Desorption Ionization Time-of-Flight Mass Spectrometry | [Protocol](./112852993.md) |
+| Zeta Potential Measurement | [Protocol](./112852994.md) |
+| Biological Tissue and Cell Culture Specimen Preparation for TEM Nanoparticle Characterization | [Protocol](./112852995.md) |
+| SEM X-Ray Microanalysis of Nanoparticles Present in Tissue or Cultured Cell Thin Sections | [Protocol](./112852996.md) |
+| Detecting and Measuring Free Gadolinium in Nanoparticles for MRI Imaging | [Protocol](./112852997.md) |
+| Lipid Component Quantitation by Thin Layer Chromatography | [Protocol](./112852998.md) |
+| Detection and Quantitative Evaluation of Endotoxin Contamination in Nanoparticle Formulations by LAL-Based Assays | [Protocol](./112852999.md) |
+| NCL Method STE-2.1: Detection of Microbial Contamination Using Millipore Sampler Devices | [Protocol](./112853000.md) |
+| Gold Nanoparticle Quantitation via Fluorescence in Solution and Cell Culture | [Protocol](./112853002.md) |
+| Evaluation of Cytotoxicity of Nanoparticulate Materials in Porcine Kidney Cells and Human Hepatocarcinoma Cells | [Protocol](./112853003.md) |
+| Monitoring Nanoparticle-Treated Hepatocarcinoma Cells for Apoptosis | [Protocol](./112853004.md) |
+| Detecting Reactive Oxygen Species in Primary Hepatocytes Treated with Nanoparticles | [Protocol](./112853005.md) |
+| Assay to Detect Lipid Peroxidation upon Exposure to Nanoparticles | [Protocol](./112853006.md) |
+| Monitoring Glutathione Homeostasis in Nanoparticle-Treated Hepatocytes | [Protocol](./112853008.md) |
+| Autophagy Monitoring Assay: Qualitative Analysis of MAP LC3-I to II Conversion by Immunoblot | [Protocol](./112853009.md) |
+| Monitoring Lysosomal Activity in Nanoparticle-Treated Cells | [Protocol](./112853010.md) |
+| Method for Analysis of Nanoparticle Hemolytic Properties In Vitro | [Protocol](./112853011.md) |
+| Method for In Vitro Analysis of Nanoparticle Thrombogenic Properties | [Protocol](./112853012.md) |
+| Qualitative Analysis of Total Complement Activation by Nanoparticles | [Protocol](./112853013.md) |
+| Method for Analysis of Nanoparticle Effects on Cellular Chemotaxis | [Protocol](./112853014.md) |
+| In Vitro Analysis of Nanoparticle Uptake by Macrophages Using Chemiluminescence | [Protocol](./112853015.md) |
+| NCL Method STE-2.3: Detection of Bacterial Contamination Using Tryptic Soy Broth Agar Plates | [Protocol](./114130946.md) |
+| NCL Method STE-2.4: Detection of Bacterial Contamination using Tryptic Soy Agar Plates and RPMI Suspension Tests for the Purposes of Determining Bacterial ID | [Protocol](./114130947.md) |
+| Endotoxin and Depyrogenation Tips | [Protocol](./114130949.md) |
+| NCL Method PCC-21: Measuring Size and Number Concentration of Metallic Nanoparticles using SP-ICP-MS | [Protocol](./114130950.md) |
+| NCL Method PCC-22: Residual Organic Solvent Analysis in Nanoformulations Using Headspace Gas Chromatography | [Protocol](./114130951.md) |
+| NCL Method PCC-20: Particle Concentration and Size using the Spectradyne nCS1 | [Protocol](./114130952.md) |
+| Detection of Endotoxin in Nano-formulations Using Limulus Amoebocyte Lysate (LAL) Assays | [Protocol](./114130953.md) |
+| Parameters, Methods, and Considerations for the Physicochemical Characterization of Liposomal Products | [Protocol](./114130954.md) |
+| Parameters, Methods, and Considerations for the Physicochemical Characterization of Colloidal Metal Nanoparticles | [Protocol](./114130955.md) |
+| Parameters, Methods, and Considerations for the Physicochemical Characterization of Polymeric Nanoparticles | [Protocol](./114130956.md) |
+| Guide to NCL In Vivo Studies: Efficacy, Pharmacokinetics and Toxicology | [Protocol](./114130957.md) |
+| NCL Method ITA-36: Detection of Naturally Occurring Antibodies to PEG and PEGylated Liposomes in Plasma of Human Donor Volunteers | [Protocol](./114130958.md) |
+| NCL Method ITA-29: Detection of Nanoparticles' Ability to Stimulate Toll-Like Receptors Using HEK-Blue Reporter Cell Lines | [Protocol](./114130959.md) |
+| NCL Method ITA-37.1: Immunophenotyping‚ÄîInstrument Calibration and Reagent Qualification for Immunophenotyping Analysis of Human Peripheral Blood Mononuclear Cell Cultures | [Protocol](./114130960.md) |
+| NCL Method ITA-37.2: Immunophenotyping‚ÄîAnalysis of Nanoparticle Effects on the Composition and Activation Status of Human Peripheral Blood Mononuclear Cells | [Protocol](./114130961.md) |
+| NCL Method ITA-40: Understanding the Role of Scavenger Receptor A1 in Nanoparticle Uptake by Murine Macrophages | [Protocol](./114130962.md) |
+| NCL Method STE-4: Detection of Œ?-glucan contamination | [Protocol](./114130963.md) |
+| CD34+ CD90+ Digital Magnetic Cell Sorting Assay | [Protocol](./114130964.md) |
+| CPMV-S100A9 Vaccination and Antibody Titers | [Protocol](./114130966.md) |
+| Qbeta-S100A9 Vaccination and Antibody Titers | [Protocol](./114130967.md) |
+| CPMV-S100A9 Production | [Protocol](./114130968.md) |
+| Qbeta-S100A9 Production Protocol | [Protocol](./114130969.md) |
+| Qbeta-S100A9 Tumor Metastasis Assays | [Protocol](./114130970.md) |
+| CPMV-S100A9 Agarose Gel Electrophoresis Protocol | [Protocol](./114130973.md) |
+| Qbeta-S100A9 Agarose Gel Electrophoresis Protocol | [Protocol](./114130974.md) |
+| Qbeta-S100A9 DLS Protocol | [Protocol](./114130975.md) |
+| Qbeta-S100A9 FPLC Protocol | [Protocol](./114130976.md) |
+| Qbeta-S100A9 SDS-PAGE Protocol | [Protocol](./114130977.md) |
+| Qbeta-S100A9 TEM Protocol | [Protocol](./114130978.md) |
+| CPMV-S100A9 DLS Protocol | [Protocol](./114130979.md) |
+| CPMV-S100A9 SDS-PAGE Protocol | [Protocol](./114130981.md) |
+| CPMV-S100A9 TEM Protocol | [Protocol](./114130982.md) |
+| CPMV-S100A9 UV-VIS Protocol | [Protocol](./114130983.md) |
+| Qbeta-S100A9 Lung Cytokine Quantitation Protocol | [Protocol](./114130984.md) |
+| Qbeta-S100A9 Lung MDSC Quantitation Protocol | [Protocol](./114130985.md) |
+| Qbeta-S100A9 Lung Bacterial Load | [Protocol](./114130986.md) |
+| CPMV-S100A9 Lung Metastasis Model Protocol | [Protocol](./114130987.md) |
+| NCL Method STE-3: Detection of Mycoplasma Contamination in Nanoparticle Formulations | [Protocol](./114130988.md) |
+| NCL Method STE-1.4: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Kinetic Chromogenic LAL Assay | [Protocol](./114130989.md) |
+| NCL Method STE-1.3: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Gel-Clot LAL Assay | [Protocol](./114130990.md) |
+| NCL Method STE-1.2: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Kinetic Turbidity LAL Assay | [Protocol](./114130991.md) |
+| NCL Method STE-1.1: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the End Point Chromogenic LAL Assay | [Protocol](./114130992.md) |
+| NIST-NCL Joint Assay Protocol, PCC-1: Measuring the Size of Nanoparticles in Aqueous Media Using Batch-Mode Dynamic Light Scattering | [Protocol](./114130993.md) |
+| NIST-NCL Joint Assay Protocol, PCC-6: Size Measurement of Nanoparticles Using Atomic Force Microscopy | [Protocol](./114130994.md) |
+| NIST-NCL Joint Assay Protocol, PCC-7: Measuring the Size of Nanoparticles Using Transmission Electron Microscopy (TEM) | [Protocol](./114130995.md) |
+| NIST-NCL Joint Assay Protocol, PCC-8: Determination of Gold in Rat Tissue with Inductively Coupled Plasma Mass Spectrometry | [Protocol](./114130996.md) |
+| NIST-NCL Joint Assay Protocol, PCC-9: Determination of Gold in Rat Blood with Inductively Coupled Plasma Mass Spectrometry | [Protocol](./114130997.md) |
+| NIST-NCL Joint Assay Protocol, PCC-10: Analysis of Gold Nanoparticles by Electrospray Differential Mobility Analysis (ES-DMA) | [Protocol](./114130998.md) |
+| NIST-NCL Joint Assay Protocol, PCC-11: Method for Determination of the Mass Fraction of Particle-Bound Gold in Suspensions of Gold Nanoparticles | [Protocol](./114130999.md) |
+| NIST-NCL Joint Assay Protocol, PCC-12: Measuring the Electrolytic Conductivity of Nanoparticle Suspensions | [Protocol](./114131000.md) |
+| NIST-NCL Joint Assay Protocol, PCC-13: Measuring the pH of Nanoparticle Suspensions | [Protocol](./114131001.md) |
+| NIST-NCL Joint Assay Protocol, PCC-15: Measuring the Size of Colloidal Gold Nano-particles using HighResolution Scanning Electron Microscopy | [Protocol](./114131002.md) |
+| NIST-NCL Joint Assay Protocol, PCC-14: Quantification of Free and Chelated Gadolinium Species in Nanoemulsion-Based Magnetic Resonance Imaging Contrast Agent Formulations | [Protocol](./114131003.md) |
+| NCL Method PCC-23: Quantitation of Residual DMSO in Nanoformulations Using Gas Chromatography with Direct Injection and Flame Ionization Detection | [Protocol](./114131004.md) |
+| NCL Method PHA-1: Radioactive Blood Partitioning Assay | [Protocol](./114131005.md) |
+| NCL Method PHA-2: Ultrafiltration Drug Release Assay Utilizing a Stable Isotope Tracer | [Protocol](./114131006.md) |
+| NCL Method GTA-1: LLC-PK1 Kidney Cytotoxicity Assay | [Protocol](./114131007.md) |
+| NCL Method GTA-2: Hep G2 Hepatocarcinoma Cytotoxicity Assay | [Protocol](./114131008.md) |
+| NCL Method GTA-3: Hep G2 Hepatocyte Glutathione Assay | [Protocol](./114131009.md) |
+| NCL Method GTA-4: Hep G2 Hepatocyte Lipid Peroxidation Assay | [Protocol](./114131010.md) |
+| NCL Method GTA-5: LLC-PK1 Kidney Cell Apoptosis Assay | [Protocol](./114131011.md) |
+| NCL Method GTA-6: HepG2 Hepatocarcinoma Apoptosis Assay | [Protocol](./114131012.md) |
+| NCL Method GTA-7: Hepatocyte Primary ROS Assay | [Protocol](./114131013.md) |
+| NCL Method GTA-11: Autophagic Dysfunction Assay‚ÄîQualitative Analysis of MAP LC3-I to LC3-II Conversion by Western Blot | [Protocol](./114131014.md) |
+| NCL Method GTA-12: Autophagic Dysfunction in LLC-PK1 Cells | [Protocol](./114131015.md) |
+| NCL Method GTA-14: Hep G2 Hepatocarcinoma Homogeneous Apoptosis Assay | [Protocol](./114131016.md) |
+| NCL Method ITA-7: Detection of Nitric Oxide Production by the Macrophage Cell Line RAW264.7 | [Protocol](./114131017.md) |
+| NCL Method ITA-14: Analysis of Nanoparticle Effects on Maturation of Monocyte Derived Dendritic Cells In Vitro | [Protocol](./114131018.md) |
+| NCL Method ITA-26: Detection of Intracellular Complement Activation in Human T Lymphocytes | [Protocol](./114131019.md) |
+| NCL Method ITA-31: Detection of Nanoparticle-Mediated Total Oxidative Stress in T Cells Using CM-H2DC-FDA Dye | [Protocol](./114131020.md) |
+| NCL Method ITA-32: Detection of Mitochondrial Oxidative Stress in T Cells Using MitoSOX Red Dye | [Protocol](./114131021.md) |
+| NCL Method ITA-33: Detection of Changes in Mitochondrial Membrane Potential in T Cells Using JC-1 Dye | [Protocol](./114131022.md) |
+| NCL Method ITA-34: Detection of Antigen Presentation by Murine Bone Marrow-Derived Dendritic Cells | [Protocol](./114131023.md) |
+| NCL Method ITA-35: Antigen-Specific Stimulation of CD8+ T Cells by Murine Bone Marrow-Derived Dendritic Cells | [Protocol](./114131024.md) |
+| Size Measurement of Nanoparticles Using Atomic Force Microscopy | [Protocol](./114131025.md) |
+| Analysis of Microbial Contamination in Nanoparticle Formulations | [Protocol](./114131026.md) |
+| Quantitation of Nanoparticles in Serum Matrix by Capillary Electrophoresis | [Protocol](./114131027.md) |
+| Detection of Bacterial Contamination in Nanoparticle Formulations by Agar Plate Test | [Protocol](./114131028.md) |
+| Immunoelectron Microscopy for Visualization of Nanoparticles | [Protocol](./114131029.md) |
+| Imaging of Liposomes by Transmission Electron Microscopy | [Protocol](./114131030.md) |
+| Nanoparticle Size Distribution and Stability Assessment Using Asymmetric-Flow Field-Flow Fractionation | [Protocol](./114131031.md) |
+| Assessment of Protein Binding Using Asymmetric-Flow Field-Flow Fractionation Combined with Multi-angle Light Scattering and Dynamic Light Scattering | [Protocol](./114131032.md) |
+| Quantitation of Active Pharmaceutical Ingredients in Polymeric Drug Products Using Elemental Analysis | [Protocol](./114131033.md) |
+| Particle Size and Concentration Measurement Using the Spectradyne nCS1 Instrument | [Protocol](./114131034.md) |
+| Measuring Size and Number Concentration of Metallic Nanoparticles Using spICP-MS | [Protocol](./114131035.md) |
+| Ion Quantitation in Liposomal Products Using RP-HPLC with Charged Aerosol Detection | [Protocol](./114131036.md) |
+| A Static Headspace Gas Chromatography Method for Quantitation of Residual Solvents in Nanoformulations | [Protocol](./114131037.md) |
+| Current Considerations and Practical Solutions for Overcoming Nanoparticle Interference with LAL Assays and Minimizing Endotoxin Contamination | [Protocol](./114131038.md) |
+| Detection of Beta-Glucan Contamination in Nanoparticle Formulations | [Protocol](./114131039.md) |
+| Detection of Intracellular Complement Activation by Nanoparticles in Human T Lymphocytes | [Protocol](./114131040.md) |
+| Analysis of Nanoparticles‚Äô Potential to Induce Autoimmunity | [Protocol](./114131041.md) |
+| Analysis of Nanoparticles‚Äô Effects on Drug-Induced Psoriasis | [Protocol](./114131042.md) |
+| Detection of Nanoparticle-Mediated Total Oxidative Stress in T Cells Using CM-H2DCFDA Dye | [Protocol](./114131043.md) |
+| Detection of Induction of Mitochondrial Oxidative Stress by Nanoparticles in T Cells Using MitoSOX Red Dye | [Protocol](./114131044.md) |
+| Detection of Nanoparticle-Mediated Change in Mitochondrial Membrane Potential in T Cells Using JC-1 Dye | [Protocol](./114131045.md) |
+| Detection of Antigen Presentation by Murine Bone Marrow‚ÄìDerived Dendritic Cells After Treatment with Nanoparticles | [Protocol](./114131046.md) |
+| Antigen-Specific Stimulation of CD8+ T Cells by Murine Bone Marrow‚ÄìDerived Dendritic Cells After Treatment with Nanoparticles | [Protocol](./114131047.md) |
+| Detection of Pre-Existing Antibodies to Polyethylene Glycol and PEGylated Liposomes in Human Serum | [Protocol](./114131048.md) |
+| In Vitro and In Vivo Methods for Analysis of Nanoparticles' Potential to Induce Delayed-Type Hypersensitivity Reactions | [Protocol](./114131049.md) |
+| Analysis of Nanoparticle Adjuvant Properties | [Protocol](./114131050.md) |
+| Methods for Analysis of Nanoparticle Immunosuppressive Properties | [Protocol](./114131051.md) |
+| Evaluation of the Acute Anaphylactoid Reactogenicity of Nanoparticle-Containing Medicines and Vaccines Using the Porcine CARPA Model | [Protocol](./114131052.md) |
+| Immunophenotyping, Part I: Instrument Calibration and Reagent Qualification for Immunophenotyping Analysis of Human Peripheral Blood Mononuclear Cell Cultures | [Protocol](./114131053.md) |
+| Immunophenotyping, Part II: Analysis of Nanoparticle Effects on the Composition and Activation Status of Human Peripheral Blood Mononuclear Cells | [Protocol](./114131054.md) |
+| Understanding the Role of Scavenger Receptor A1 in Nanoparticle Uptake by Murine Macrophages | [Protocol](./114131055.md) |
+| Assessment of Temperature-Dependent Drug Release of Solubilizing Nanoformulations Using the SITUA | [Protocol](./114131056.md) |
+| Evaluation of Nanomedicine Tissue Distribution and Stability by Alexa Fluor 488 and PEG Immunohistochemistry | [Protocol](./114131057.md) |
+| NCL Video Protocol: Dynamic Light Scattering | [Protocol](./114131058.md) |
+| NCL Method STE-1.1: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the End Point Chromogenic LAL Assay | [Protocol](./114131059.md) |
+| NCL Method STE-1.3: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Gel-Clot LAL Assay | [Protocol](./114131060.md) |
+| NCL Method STE-1.4: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Kinetic Chromogenic LAL Assay | [Protocol](./114131061.md) |
+| NCL Method STE-2.1: Detection of Microbial Contamination Using Millipore Sampler Devices | [Protocol](./114131062.md) |
+| NCL Method STE-2.2: Detection of Bacterial Contamination Using Luria Broth Agar Plates | [Protocol](./114131063.md) |
+| NCL Method STE-3: Detection of Mycoplasma Contamination in Nanoparticle Formulations | [Protocol](./114131064.md) |
+| Endotoxin and Depyrogenation Tips | [Protocol](./114131065.md) |
+| NCL Method STE-1.2: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Kinetic Turbidity LAL Assay | [Protocol](./114131066.md) |
+| NCL Method STE-3: Detection of Mycoplasma Contamination in Nanoparticle Formulations | [Protocol](./114131067.md) |
+| NCL Method STE-3: Detection of Mycoplasma Contamination in Nanoparticle Formulations | [Protocol](./114131068.md) |
+| Endotoxin and Depyrogenation Tips | [Protocol](./114131069.md) |
+| NCL Method PCC-2: Measuring Zeta Potential of Nanoparticles | [Protocol](./114131070.md) |
+| NCL Method PCC-2: Measuring Zeta Potential of Nanoparticles | [Protocol](./114131071.md) |
+| Supplement to NIST-NCL Joint Assay Protocols PCC-8 & PCC-9: Metal Quantitation by Inductively Coupled Plasma-Mass Spectrometry | [Protocol](./114131072.md) |
+| NCL Method PCC-16: Quantitation of PEG on PEGylated Gold Nanoparticles Using Reversed Phase High Performance Liquid Chromatography and Charged Aerosol Detection | [Protocol](./114131073.md) |
+| NCL Method PCC-17: Quantitation of Nanoparticle Composition Using Thermogravimetric Analysis | [Protocol](./114131074.md) |
+| NCL Method PCC-18: Quantitation of APIs in Polymeric Prodrug Formulations | [Protocol](./114131075.md) |
+| NCL Method PCC-19: Asymmetric-Flow Field-Flow Fractionation | [Protocol](./114131076.md) |
+| NCL Method PCC-20: Particle Concentration and Size using the Spectradyne nCS1 | [Protocol](./114131077.md) |
+| NCL Method ITA-1: Analysis of Hemolytic Properties of Nanoparticles | [Protocol](./114131078.md) |
+| NCL Method ITA-1: Analysis of Hemolytic Properties of Nanoparticles | [Protocol](./114131079.md) |
+| NCL Method ITA-2.1: Analysis of Platelet Aggregation by Cell Counting | [Protocol](./114131080.md) |
+| NCL Method ITA-2.1: Analysis of Platelet Aggregation by Cell Counting | [Protocol](./114131081.md) |
+| NCL Method ITA-2.2: Analysis of Platelet Aggregation by Light Transmission Aggregometry | [Protocol](./114131082.md) |
+| NCL Method ITA-2.2: Analysis of Platelet Aggregation by Light Transmission Aggregometry | [Protocol](./114131083.md) |
+| NCL Method ITA-3: Mouse Granulocyte-Macrophage Colony-Forming Unit Assay | [Protocol](./114131084.md) |
+| NCL Method ITA-3: Mouse Granulocyte-Macrophage Colony-Forming Unit Assay | [Protocol](./114131085.md) |
+| NCL Method ITA-4: Analysis of Nanoparticle Interaction with Plasma Proteins by 2D PAGE | [Protocol](./114131086.md) |
+| NCL Method ITA-4: Analysis of Nanoparticle Interaction with Plasma Proteins by 2D PAGE | [Protocol](./114131087.md) |
+| NCL Method ITA-5.1: Qualitative Analysis of Total Complement Activation by Western Blot | [Protocol](./114131088.md) |
+| NCL Method ITA-5.1: Qualitative Analysis of Total Complement Activation by Western Blot | [Protocol](./114131089.md) |
+| NCL Method ITA-5.2: Analysis of Complement Activation by Single-Plex EIA or Multiplex ELISA | [Protocol](./114131090.md) |
+| NCL Method ITA-6: Leukocyte Proliferation Assay | [Protocol](./114131091.md) |
+| NCL Method ITA-6.1: Leukocyte Proliferation Assay (Immunostimulation and Immunosuppression) | [Protocol](./114131092.md) |
+| NCL Method ITA-6.2: Leukocyte Proliferation Assay (Immunostimulation) | [Protocol](./114131093.md) |
+| NCL Method ITA-6.3: Leukocyte Proliferation Assay (Immunosuppression) | [Protocol](./114131094.md) |
+| NCL Method ITA-7: Detection of Nitric Oxide Production by the Macrophage Cell Line RAW264.7 | [Protocol](./114131095.md) |
+| NCL Method ITA-8: Chemotaxis Assay | [Protocol](./114131096.md) |
+| NCL Method ITA-8.1: Chemotaxis Assay | [Protocol](./114131097.md) |
+| NCL Method ITA-8.2: Analysis of Nanoparticle Chemoattractant Properties Using Label-Free, Real-Time Chemotaxis Assay | [Protocol](./114131098.md) |
+| NCL Method ITA-9: Phagocytosis Assay | [Protocol](./114131099.md) |
+| NCL Method ITA-9.1: Phagocytosis Assay | [Protocol](./114131100.md) |
+| NCL Method ITA-9.2: In Vitro Assay for Assessing Nanoparticle Effects on Monocyte/Macrophage Phagocytic Function | [Protocol](./114131101.md) |
+| NCL Method ITA-10: Preparation of Human Whole Blood and Peripheral Blood Mononuclear Cell Cultures to Analyze Nanoparticle Potential to Induce Cytokines In Vitro | [Protocol](./114131102.md) |
+| NCL Method ITA-11: Measurement of Nanoparticle Effects on Cytotoxic Activity of NK Cells by Label-Free RT-CES System | [Protocol](./114131103.md) |
+| NCL Method ITA-11: Measurement of Nanoparticle Effects on Cytotoxic Activity of NK Cells by Label-Free RT-CES System | [Protocol](./114131104.md) |
+| NCL Method ITA-12: In Vitro Analysis of Nanoparticle Effects on Plasma Coagulation Time | [Protocol](./114131105.md) |
+| NCL Method ITA-12: In Vitro Analysis of Nanoparticle Effects on Plasma Coagulation Time | [Protocol](./114131106.md) |
+| NCL Method ITA-14: Analysis of Nanoparticle Effects on Maturation of Monocyte Derived Dendritic Cells In Vitro | [Protocol](./114131107.md) |
+| NCL Method ITA-14: Analysis of Nanoparticle Effects on Maturation of Monocyte Derived Dendritic Cells In Vitro | [Protocol](./114131108.md) |
+| NCL Method ITA-17: Analysis of Nanoparticle Effects on Leukocyte Procoagulant Activity | [Protocol](./114131109.md) |
+| NCL Method ITA-17: Analysis of Nanoparticle Effects on Leukocyte Procoagulant Activity | [Protocol](./114131110.md) |
+| NCL Method ITA-18: Human Lymphocyte Activation (HuLa) Assay for Analysis of Immunosuppressive Properties of Nanomaterials | [Protocol](./114131111.md) |
+| NCL Method ITA-18: Human Lymphocyte Activation (HuLa) Assay for Analysis of Immunosuppressive Properties of Nanomaterials | [Protocol](./114131112.md) |
+| NCL Method ITA-22: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IL-8 in Culture Supernatants | [Protocol](./114131113.md) |
+| NCL Method ITA-22: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IL-8 in Culture Supernatants | [Protocol](./114131114.md) |
+| NCL Method ITA-23: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IL-1Œ? in Culture Supernatants | [Protocol](./114131115.md) |
+| NCL Method ITA-23: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IL-1Œ? in Culture Supernatants | [Protocol](./114131116.md) |
+| NCL Method ITA-24: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human TNFŒ± in Culture Supernatants | [Protocol](./114131117.md) |
+| NCL Method ITA-24: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human TNFŒ± in Culture Supernatants | [Protocol](./114131118.md) |
+| NCL Method ITA-25: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IFNŒ? in Culture Supernatants | [Protocol](./114131119.md) |
+| NCL Method ITA-25: Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human IFNŒ? in Culture Supernatants | [Protocol](./114131120.md) |
+| NCL Method ITA-27: Multiplex Enzyme-Linked Immunosorbent Assay (ELISA) for Detection of Human Cytokines in Culture Supernatants | [Protocol](./114131121.md) |
+| NCL Method ITA-29: Detection of Nanoparticles' Ability to Stimulate Toll-Like Receptors Using HEK-Blue Reporter Cell Lines | [Protocol](./114131122.md) |
+| NCL Method ITA-36: Detection of Naturally Occurring Antibodies to PEG and PEGylated Liposomes in Plasma of Human Donor Volunteers | [Protocol](./114131123.md) |
+| NCL Method ITA-36: Detection of Naturally Occurring Antibodies to PEG and PEGylated Liposomes in Plasma of Human Donor Volunteers | [Protocol](./114131124.md) |
+| NCL Method ITA-37.1: Immunophenotyping‚ÄîInstrument Calibration and Reagent Qualification for Immunophenotyping Analysis of Human Peripheral Blood Mononuclear Cell Cultures | [Protocol](./114131125.md) |
+| NCL Method ITA-37.1: Immunophenotyping‚ÄîInstrument Calibration and Reagent Qualification for Immunophenotyping Analysis of Human Peripheral Blood Mononuclear Cell Cultures | [Protocol](./114131126.md) |
+| NCL Method ITA-37.2: Immunophenotyping‚ÄîAnalysis of Nanoparticle Effects on the Composition and Activation Status of Human Peripheral Blood Mononuclear Cells | [Protocol](./114131127.md) |
+| NCL Method ITA-37.2: Immunophenotyping‚ÄîAnalysis of Nanoparticle Effects on the Composition and Activation Status of Human Peripheral Blood Mononuclear Cells | [Protocol](./114131128.md) |
+| NCL Method ITA-40: Understanding the Role of Scavenger Receptor A1 in Nanoparticle Uptake by Murine Macrophages | [Protocol](./114131129.md) |
+| NCL Method IEA-1: Analysis of Nanoparticle Effects on Invasion of Cancer Cells | [Protocol](./114131130.md) |
+| NCL Method GTA-1: LLC-PK1 Kidney Cytotoxicity Assay | [Protocol](./114131131.md) |
+| NCL Method GTA-1: LLC-PK1 Kidney Cytotoxicity Assay | [Protocol](./114131132.md) |
+| NCL Method GTA-2: Hep G2 Hepatocarcinoma Cytotoxicity Assay | [Protocol](./114131133.md) |
+| NCL Method GTA-3: Hep G2 Hepatocyte Glutathione Assay | [Protocol](./114131134.md) |
+| NCL Method GTA-4: Hep G2 Hepatocyte Lipid Peroxidation Assay | [Protocol](./114131135.md) |
+| NCL Method GTA-5: LLC-PK1 Kidney Cell Apoptosis Assay | [Protocol](./114131136.md) |
+| NCL Method GTA-6: HepG2 Hepatocarcinoma Apoptosis Assay | [Protocol](./114131137.md) |
+| NCL Method GTA-7: Hepatocyte Primary ROS Assay | [Protocol](./114131138.md) |
+| NCL Method GTA-11: Autophagic Dysfunction Assay‚ÄîQualitative Analysis of MAP LC3-I to LC3-II Conversion by Western Blot | [Protocol](./114131139.md) |
+| NCL Method GTA-12: Autophagic Dysfunction in LLC-PK1 Cells | [Protocol](./114131140.md) |
+| NCL Method GTA-13: In Vitro Blood Partitioning Assay | [Protocol](./114131141.md) |
+| NCL Method GTA-14: Hep G2 Hepatocarcinoma Homogeneous Apoptosis Assay | [Protocol](./114131142.md) |
+| NCL Method PHA-1: Radioactive Blood Partitioning Assay | [Protocol](./114131143.md) |
+| NCL Method PHA-2: Ultrafiltration Drug Release Assay Utilizing a Stable Isotope Tracer | [Protocol](./114131144.md) |
+| Plasmid Design (pCMV-T7-CPMVRNA2) | [Protocol](./114131145.md) |
+| NCL Method STE-1.1: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the End Point Chromogenic LAL Assay | [Protocol](./114131146.md) |
+| NCL Method STE-1.4: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Kinetic Chromogenic LAL Assay | [Protocol](./114131147.md) |
+| NCL Method STE-1.3: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Gel-Clot LAL Assay | [Protocol](./114131148.md) |
+| NCL Method STE-1.2: Detection and Quantification of Gram-Negative Bacterial Endotoxin Contamination in Nanoparticle Formulations Using the Kinetic Turbidity LAL Assay | [Protocol](./114131149.md) |
+| NIST-NCL Joint Assay Protocol, PCC-11: Method for Determination of the Mass Fraction of Particle-Bound Gold in Suspensions of Gold Nanoparticles | [Protocol](./114131150.md) |
+| NCL Method PCC-17: Quantitation of Nanoparticle Composition Using Thermogravimetric Analysis | [Protocol](./114131151.md) |
+| NCL Method PCC-20: Particle Concentration and Size using the Spectradyne nCS1 | [Protocol](./114131152.md) |
+| Parameters, Methods, and Considerations for the Physicochemical Characterization of Liposomal Products | [Protocol](./114131153.md) |
+| Parameters, Methods, and Considerations for the Physicochemical Characterization of Colloidal Metal Nanoparticles | [Protocol](./114131154.md) |
+| Parameters, Methods, and Considerations for the Physicochemical Characterization of Polymeric Nanoparticles | [Protocol](./114131155.md) |
+| NCL Method ITA-4: Analysis of Nanoparticle Interaction with Plasma Proteins by 2D PAGE | [Protocol](./114131156.md) |
+| NCL Method ITA-5.1: Qualitative Analysis of Total Complement Activation by Western Blot | [Protocol](./114131157.md) |
+| NCL Method ITA-6.1: Leukocyte Proliferation Assay (Immunostimulation and Immunosuppression) | [Protocol](./114131158.md) |
+| NCL Method ITA-6.2: Leukocyte Proliferation Assay (Immunostimulation) | [Protocol](./114131159.md) |
+| NCL Method ITA-6.3: Leukocyte Proliferation Assay (Immunosuppression) | [Protocol](./114131160.md) |
+| NCL Method ITA-10: Preparation of Human Whole Blood and Peripheral Blood Mononuclear Cell Cultures to Analyze Nanoparticle Potential to Induce Cytokines In Vitro | [Protocol](./114131161.md) |
+| NCL Method ITA-18: Human Lymphocyte Activation (HuLa) Assay for Analysis of Immunosuppressive Properties of Nanomaterials | [Protocol](./114131162.md) |
+| NCL Method GTA-2: Hep G2 Hepatocarcinoma Cytotoxicity Assay | [Protocol](./114131163.md) |
+| NCL Method GTA-11: Autophagic Dysfunction Assay‚ÄîQualitative Analysis of MAP LC3-I to LC3-II Conversion by Western Blot | [Protocol](./114131164.md) |
+| Endotoxin and Depyrogenation Guide | [Protocol](./114131165.md) |
+| NCL Method ITA-38: Analysis of Nanoparticle Effects on IgE-Dependent Mast Cell Degranulation  | [Protocol](./114131166.md) |
+| NCL Method ITA-10: Preparation of Human Whole Blood and Peripheral Blood Mononuclear Cell Cultures to Analyze Nanoparticle Potential to Induce Cytokines In Vitro | [Protocol](./114131167.md) |
+| NCL Method ITA-38: Analysis of Nanoparticle Effects on IgE-Dependent Mast Cell Degranulation  | [Protocol](./114131168.md) |
+| CPMV-CH401 & QŒ?-CH401 Production | [Protocol](./114131169.md) |
+| CPMV-CH401 & QŒ?-CH401 Agarose Gel Electrophoresis | [Protocol](./114131170.md) |
+| CPMV-CH401 & QŒ?-CH401 DLS | [Protocol](./114131172.md) |
+| CPMV-CH401 & QŒ?-CH401 SDS-PAGE | [Protocol](./114131173.md) |
+| CPMV-CH401 & QŒ?-CH401 TEM | [Protocol](./114131174.md) |
+| CPMV-CH401 & QŒ?-CH401 In Vivo Efficacy Studies | [Protocol](./114131175.md) |
+| CPMV-CH401 & QŒ?-CH401 Antibody Assays | [Protocol](./114131176.md) |
+| CPMV-CH401 & QŒ?-CH401 Cytokine Assays | [Protocol](./114131177.md) |
+| Purified CPMV Agarose Gel Electrophoresis Protocol | [Protocol](./114131179.md) |
+| Purified CPMV SDS-PAGE Protocol | [Protocol](./114131180.md) |
+| Purified CPMV Dynamic Light Scattering (DLS) Protocol | [Protocol](./114131181.md) |
+| Purified CPMV Fast Protein Liquid Chromatography (FPLC) Protocol | [Protocol](./114131182.md) |
+| Purified CPMV Transmission Electron Microscopy (TEM) Protocol  | [Protocol](./114131183.md) |
+| Purified CPMV UV-Vis Protocol | [Protocol](./114131184.md) |
+| B16F10 tumor inoculation and intratumoral treatment | [Protocol](./114131185.md) |
+| Purified CPMV Cytokine Assay Protocol | [Protocol](./114131186.md) |
+| A20 Lymphoma Tumor Model Protocol | [Protocol](./114131187.md) |
+| CPMV Mass spectrometry analysis | [Protocol](./114131188.md) |
+| CPMV propagation | [Protocol](./114131189.md) |
+| Flow cytometry CPMV detection | [Protocol](./114131190.md) |
+| RNA Fluorescent in situ Hybridization multiplexed with Immunofluorescence | [Protocol](./114131191.md) |
+| RT-PCR for CPMV RNA detection | [Protocol](./114131192.md) |
+| ELISpot Protocol | [Protocol](./114131193.md) |
+| Western Blot and dot blot for CPMV | [Protocol](./114131194.md) |
+| Immunofluorescence Staining Assay Protocol | [Protocol](./114131195.md) |
+| Flow Cytometry for Cy5-CPMV and Cy5-PVX | [Protocol](./114131196.md) |
+| NCL Method ITA-9.2: In Vitro Assay for Assessing Nanoparticle Effects on Monocyte/Macrophage Phagocytic Function | [Protocol](./114131197.md) |

@@ -13,7 +13,7 @@ This repository contains the DOI landing pages for the caNanoLab project.
 ## DOI Pages 
 -------------------------- 
 | File Name | File Type | DOI | 
-|----------|---------| 
+|----------|---------|---------|  
 | [NIST - NCL Joint Assay Protocol, PCC-10](./29949954.md) | Protocol | Not Available | 
 | [NEU-MAmiji - Video Protocol on Therapeutic Gene Delivery and Transfection in Human Pancreatic Cancer Cells using EGFR-targeted Gelatin Nanoparticles](./40108033.md) | Protocol | Not Available | 
 | [UTSA-ZKereselidze - Video Protocol on Gold Nanostar Synthesis with a Silver Seed Mediated Growth Method](./40108034.md) | Protocol | Not Available | 

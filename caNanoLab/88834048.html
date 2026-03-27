@@ -9,4 +9,59 @@
             td, th { border: 1px solid #dddddd; text-align: left; padding: 8px }
             tr:nth-child(even) { background-color: #dddddd }
         </style>
-    </head><body><img src="./assets/images/crdc-logo.svg" alt="CRDC General Commons Logo"><h1> caNanoLab DOI </h1><hr><p><b>Protocol Type:</b> physico-chemical assay</p><p><b>Protocol Name:</b> Supplement to NIST-NCL Joint Assay Protocols PCC-8 & PCC-9: Metal Quantitation by Inductively Coupled Plasma-Mass Spectrometry</p><p><b>Protocol Abbreviation:</b> Supplement to PCC-8 & PCC-9</p><p><b>Protocol Version:</b> 1<hr><p><b>DOI:</b> <a href = http://dx.doi.org/10.17917/B68Q-T959>http://dx.doi.org/10.17917/B68Q-T959</a></p><p><b>Protocol File:</b> protocols/20240410_16-24-07-631_NCL_Method_PCC-8 and PCC-9_Supplement.pdf<p><b>File Title:</b> Supplement to PCC-8 & PCC-9</p><p><b>Description:</b></b> This protocol is meant to serve as a supplement to the NIST-NCL protocols PCC-8, ‚ÄúDetermination of gold in rat tissue by inductively coupled plasma-mass spectrometry (ICP-MS)‚Äù and PCC-9, ‚ÄúDetermination of gold in rat blood by ICP-MS.‚Äù Its purpose is to highlight the ICP-MS capabilities of the Nanotechnology Characterization Laboratory (NCL) and to expand on the detailed protocols offered in PCC-8 and PCC-9 with additional experimental nuances in working with alternate materials or tissues.<hr><p><b>Resource Type:</b>  Protocol</p><p><b>Data Access:</b> <a href =https://general.datacommons.cancer.gov/#/data>https://general.datacommons.cancer.gov/#/data</a><p></body></html>
+    </head><body><img src="./assets/images/crdc-logo.svg" alt="CRDC General Commons Logo"><h1> caNanoLab DOI </h1><hr><p><b>Protocol Type:</b> physico-chemical assay</p><p><b>Protocol Name:</b> Supplement to NIST-NCL Joint Assay Protocols PCC-8 & PCC-9: Metal Quantitation by Inductively Coupled Plasma-Mass Spectrometry</p><p><b>Protocol Abbreviation:</b> Supplement to PCC-8 & PCC-9</p><p><b>Protocol Version:</b> 1<hr><p><b>DOI:</b> <a href = http://dx.doi.org/10.17917/B68Q-T959>http://dx.doi.org/10.17917/B68Q-T959</a></p><p><b>Protocol File: </b><a href = https://nci-crdc.datacommons.io/user/data/download/9fce94bd-fbeb-529a-89e1-22b905b05f2e id="downloadLink">20240410_16-24-07-631_NCL_Method_PCC-8 and PCC-9_Supplement.pdf</a></p><p><b>File Title:</b> Supplement to PCC-8 & PCC-9</p><p><b>Description:</b></b> This protocol is meant to serve as a supplement to the NIST-NCL protocols PCC-8, ‚ÄúDetermination of gold in rat tissue by inductively coupled plasma-mass spectrometry (ICP-MS)‚Äù and PCC-9, ‚ÄúDetermination of gold in rat blood by ICP-MS.‚Äù Its purpose is to highlight the ICP-MS capabilities of the Nanotechnology Characterization Laboratory (NCL) and to expand on the detailed protocols offered in PCC-8 and PCC-9 with additional experimental nuances in working with alternate materials or tissues.<hr><p><b>Resource Type:</b>  Protocol</p><p><b>Data Access:</b> <a href =https://general.datacommons.cancer.gov/#/data>https://general.datacommons.cancer.gov/#/data</a><p>
+<script>
+            document.getElementById('downloadLink').addEventListener('click', async function(e) {
+                e.preventDefault();
+                
+                const originalText = this.textContent;
+                const apiUrl = this.href;
+                
+                try {
+                    // Show loading state
+                    this.textContent = 'Downloading...';
+                    this.style.pointerEvents = 'none';
+                    
+                    console.log('Fetching signed URL from:', apiUrl);
+                    
+                    // Fetch the signed URL from the API
+                    const response = await fetch(apiUrl, {
+                        method: 'GET',
+                        headers: {
+                            'Accept': 'application/json'
+                        }
+                    });
+                    
+                    if (!response.ok) {
+                        throw new Error(`Failed to retrieve signed URL: ${response.status} ${response.statusText}`);
+                    }
+                    
+                    const data = await response.json();
+                    console.log('Received signed URL data:', data);
+                    
+                    if (!data.url) {
+                        throw new Error('No URL found in response');
+                    }
+                    
+                    const signedUrl = data.url;
+                    
+                    // Method 1: Try direct navigation (simplest, works if S3 has proper headers)
+                    window.location.href = signedUrl;
+                    
+                    // Reset after a delay
+                    setTimeout(() => {
+                        this.textContent = originalText;
+                        this.style.pointerEvents = 'auto';
+                    }, 2000);
+                    
+                } catch (error) {
+                    console.error('Download error:', error);
+                    alert(`Error downloading file: ${error.message}
+
+Please check the browser console for details.`);
+                    this.textContent = originalText;
+                    this.style.pointerEvents = 'auto';
+                }
+            });
+        </script>
+</body></html>

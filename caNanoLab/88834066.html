@@ -9,4 +9,59 @@
             td, th { border: 1px solid #dddddd; text-align: left; padding: 8px }
             tr:nth-child(even) { background-color: #dddddd }
         </style>
-    </head><body><img src="./assets/images/crdc-logo.svg" alt="CRDC General Commons Logo"><h1> caNanoLab DOI </h1><hr><p><b>Protocol Type:</b> in vitro assay</p><p><b>Protocol Name:</b> NCL Method ITA-17: Analysis of Nanoparticle Effects on Leukocyte Procoagulant Activity</p><p><b>Protocol Abbreviation:</b> ITA-17</p><p><b>Protocol Version:</b> 3<hr><p><b>DOI:</b> <a href = http://dx.doi.org/10.17917/ZQ6R-KD69>http://dx.doi.org/10.17917/ZQ6R-KD69</a></p><p><b>Protocol File:</b> protocols/20240411_12-43-57-566_NCL_Method_ITA-17.pdf<p><b>File Title:</b> ITA-17</p><p><b>Description:</b></b> This document describes a protocol for assessing the ability of a nanoparticle formulation to induce leukocyte procoagulant activity. This protocol includes two cell models: normal leukocytes, represented by PBMC isolated from blood of healthy donor volunteers, and acute promyelocytic leukemia cells, represented by the HL-60 cell line. Briefly, cells are treated with nanoparticles, and then undergo a wash step to remove excess particles. Isolated cells are then used to initiate plasma coagulation, which is measured using coagulometer (following NCL protocol ITA-12) for analysis of prothrombin time.<hr><p><b>Resource Type:</b>  Protocol</p><p><b>Data Access:</b> <a href =https://general.datacommons.cancer.gov/#/data>https://general.datacommons.cancer.gov/#/data</a><p></body></html>
+    </head><body><img src="./assets/images/crdc-logo.svg" alt="CRDC General Commons Logo"><h1> caNanoLab DOI </h1><hr><p><b>Protocol Type:</b> in vitro assay</p><p><b>Protocol Name:</b> NCL Method ITA-17: Analysis of Nanoparticle Effects on Leukocyte Procoagulant Activity</p><p><b>Protocol Abbreviation:</b> ITA-17</p><p><b>Protocol Version:</b> 3<hr><p><b>DOI:</b> <a href = http://dx.doi.org/10.17917/ZQ6R-KD69>http://dx.doi.org/10.17917/ZQ6R-KD69</a></p><p><b>Protocol File: </b><a href = https://nci-crdc.datacommons.io/user/data/download/9b01539e-4077-5ce1-915e-6643a84cdfbd id="downloadLink">20240411_12-43-57-566_NCL_Method_ITA-17.pdf</a></p><p><b>File Title:</b> ITA-17</p><p><b>Description:</b></b> This document describes a protocol for assessing the ability of a nanoparticle formulation to induce leukocyte procoagulant activity. This protocol includes two cell models: normal leukocytes, represented by PBMC isolated from blood of healthy donor volunteers, and acute promyelocytic leukemia cells, represented by the HL-60 cell line. Briefly, cells are treated with nanoparticles, and then undergo a wash step to remove excess particles. Isolated cells are then used to initiate plasma coagulation, which is measured using coagulometer (following NCL protocol ITA-12) for analysis of prothrombin time.<hr><p><b>Resource Type:</b>  Protocol</p><p><b>Data Access:</b> <a href =https://general.datacommons.cancer.gov/#/data>https://general.datacommons.cancer.gov/#/data</a><p>
+<script>
+            document.getElementById('downloadLink').addEventListener('click', async function(e) {
+                e.preventDefault();
+                
+                const originalText = this.textContent;
+                const apiUrl = this.href;
+                
+                try {
+                    // Show loading state
+                    this.textContent = 'Downloading...';
+                    this.style.pointerEvents = 'none';
+                    
+                    console.log('Fetching signed URL from:', apiUrl);
+                    
+                    // Fetch the signed URL from the API
+                    const response = await fetch(apiUrl, {
+                        method: 'GET',
+                        headers: {
+                            'Accept': 'application/json'
+                        }
+                    });
+                    
+                    if (!response.ok) {
+                        throw new Error(`Failed to retrieve signed URL: ${response.status} ${response.statusText}`);
+                    }
+                    
+                    const data = await response.json();
+                    console.log('Received signed URL data:', data);
+                    
+                    if (!data.url) {
+                        throw new Error('No URL found in response');
+                    }
+                    
+                    const signedUrl = data.url;
+                    
+                    // Method 1: Try direct navigation (simplest, works if S3 has proper headers)
+                    window.location.href = signedUrl;
+                    
+                    // Reset after a delay
+                    setTimeout(() => {
+                        this.textContent = originalText;
+                        this.style.pointerEvents = 'auto';
+                    }, 2000);
+                    
+                } catch (error) {
+                    console.error('Download error:', error);
+                    alert(`Error downloading file: ${error.message}
+
+Please check the browser console for details.`);
+                    this.textContent = originalText;
+                    this.style.pointerEvents = 'auto';
+                }
+            });
+        </script>
+</body></html>

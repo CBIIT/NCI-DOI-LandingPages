@@ -9,4 +9,59 @@
             td, th { border: 1px solid #dddddd; text-align: left; padding: 8px }
             tr:nth-child(even) { background-color: #dddddd }
         </style>
-    </head><body><img src="./assets/images/crdc-logo.svg" alt="CRDC General Commons Logo"><h1> caNanoLab DOI </h1><hr><p><b>Protocol Type:</b> physico-chemical assay</p><p><b>Protocol Name:</b> NIST-NCL Joint Assay Protocol, PCC-8: Determination of Gold in Rat Tissue with Inductively Coupled Plasma Mass Spectrometry</p><p><b>Protocol Abbreviation:</b> PCC-8</p><p><b>Protocol Version:</b> 1.1<hr><p><b>DOI:</b> <a href = http://dx.doi.org/10.17917/SA6R-9D63>http://dx.doi.org/10.17917/SA6R-9D63</a></p><p><b>Protocol File:</b> protocols/20240410_16-15-31-230_NCL_Method_PCC-8.pdf<p><b>File Title:</b> PCC-8</p><p><b>Description:</b></b> A new class of pharmaceutical candidate based on gold nanoparticles has entered the small animal phase of clinical study. The content of gold in the blood and tissue of study animals must be determined. This technical procedure defines the analytical protocols for the determination of gold in the tissues of rats used in a clinical study.<hr><p><b>Resource Type:</b>  Protocol</p><p><b>Data Access:</b> <a href =https://general.datacommons.cancer.gov/#/data>https://general.datacommons.cancer.gov/#/data</a><p></body></html>
+    </head><body><img src="./assets/images/crdc-logo.svg" alt="CRDC General Commons Logo"><h1> caNanoLab DOI </h1><hr><p><b>Protocol Type:</b> physico-chemical assay</p><p><b>Protocol Name:</b> NIST-NCL Joint Assay Protocol, PCC-8: Determination of Gold in Rat Tissue with Inductively Coupled Plasma Mass Spectrometry</p><p><b>Protocol Abbreviation:</b> PCC-8</p><p><b>Protocol Version:</b> 1.1<hr><p><b>DOI:</b> <a href = http://dx.doi.org/10.17917/SA6R-9D63>http://dx.doi.org/10.17917/SA6R-9D63</a></p><p><b>Protocol File: </b><a href = https://nci-crdc.datacommons.io/user/data/download/06be8a86-2bdb-5514-af19-695ac9ad48b3 id="downloadLink">20240410_16-15-31-230_NCL_Method_PCC-8.pdf</a></p><p><b>File Title:</b> PCC-8</p><p><b>Description:</b></b> A new class of pharmaceutical candidate based on gold nanoparticles has entered the small animal phase of clinical study. The content of gold in the blood and tissue of study animals must be determined. This technical procedure defines the analytical protocols for the determination of gold in the tissues of rats used in a clinical study.<hr><p><b>Resource Type:</b>  Protocol</p><p><b>Data Access:</b> <a href =https://general.datacommons.cancer.gov/#/data>https://general.datacommons.cancer.gov/#/data</a><p>
+<script>
+            document.getElementById('downloadLink').addEventListener('click', async function(e) {
+                e.preventDefault();
+                
+                const originalText = this.textContent;
+                const apiUrl = this.href;
+                
+                try {
+                    // Show loading state
+                    this.textContent = 'Downloading...';
+                    this.style.pointerEvents = 'none';
+                    
+                    console.log('Fetching signed URL from:', apiUrl);
+                    
+                    // Fetch the signed URL from the API
+                    const response = await fetch(apiUrl, {
+                        method: 'GET',
+                        headers: {
+                            'Accept': 'application/json'
+                        }
+                    });
+                    
+                    if (!response.ok) {
+                        throw new Error(`Failed to retrieve signed URL: ${response.status} ${response.statusText}`);
+                    }
+                    
+                    const data = await response.json();
+                    console.log('Received signed URL data:', data);
+                    
+                    if (!data.url) {
+                        throw new Error('No URL found in response');
+                    }
+                    
+                    const signedUrl = data.url;
+                    
+                    // Method 1: Try direct navigation (simplest, works if S3 has proper headers)
+                    window.location.href = signedUrl;
+                    
+                    // Reset after a delay
+                    setTimeout(() => {
+                        this.textContent = originalText;
+                        this.style.pointerEvents = 'auto';
+                    }, 2000);
+                    
+                } catch (error) {
+                    console.error('Download error:', error);
+                    alert(`Error downloading file: ${error.message}
+
+Please check the browser console for details.`);
+                    this.textContent = originalText;
+                    this.style.pointerEvents = 'auto';
+                }
+            });
+        </script>
+</body></html>

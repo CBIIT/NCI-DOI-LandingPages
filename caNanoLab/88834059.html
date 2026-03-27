@@ -9,4 +9,59 @@
             td, th { border: 1px solid #dddddd; text-align: left; padding: 8px }
             tr:nth-child(even) { background-color: #dddddd }
         </style>
-    </head><body><img src="./assets/images/crdc-logo.svg" alt="CRDC General Commons Logo"><h1> caNanoLab DOI </h1><hr><p><b>Protocol Type:</b> in vitro assay</p><p><b>Protocol Name:</b> NCL Method ITA-8.2: Analysis of Nanoparticle Chemoattractant Properties Using Label-Free, Real-Time Chemotaxis Assay</p><p><b>Protocol Abbreviation:</b> ITA-8.2</p><p><b>Protocol Version:</b> 1<hr><p><b>DOI:</b> <a href = http://dx.doi.org/10.17917/QENR-XG24>http://dx.doi.org/10.17917/QENR-XG24</a></p><p><b>Protocol File:</b> protocols/20240411_12-08-47-631_NCL_Method_ITA-8.2.pdf<p><b>File Title:</b> ITA-8.2</p><p><b>Description:</b></b> This document provides a protocol for a real-time, quantitative assessment of the chemoattractant capacity of engineered nanomaterials. This assay uses the mouse macrophage cell line RAW 264.7 as a model. The cells are separated from control chemoattractant and test-nanoparticles by an 8 um filter. Cell migration through the filter is monitored using a label-free technology developed by ACEA Biosciences/Agilent, wherein cell attachment to gold electrodes on the underside of the filter results in a change of impedance, which subsequently is converted into a cell index which is proportional to the number of cells that migrated through the filter.<hr><p><b>Resource Type:</b>  Protocol</p><p><b>Data Access:</b> <a href =https://general.datacommons.cancer.gov/#/data>https://general.datacommons.cancer.gov/#/data</a><p></body></html>
+    </head><body><img src="./assets/images/crdc-logo.svg" alt="CRDC General Commons Logo"><h1> caNanoLab DOI </h1><hr><p><b>Protocol Type:</b> in vitro assay</p><p><b>Protocol Name:</b> NCL Method ITA-8.2: Analysis of Nanoparticle Chemoattractant Properties Using Label-Free, Real-Time Chemotaxis Assay</p><p><b>Protocol Abbreviation:</b> ITA-8.2</p><p><b>Protocol Version:</b> 1<hr><p><b>DOI:</b> <a href = http://dx.doi.org/10.17917/QENR-XG24>http://dx.doi.org/10.17917/QENR-XG24</a></p><p><b>Protocol File: </b><a href = https://nci-crdc.datacommons.io/user/data/download/b5677e8f-45c0-5ddd-a9db-946b63fe2159 id="downloadLink">20240411_12-08-47-631_NCL_Method_ITA-8.2.pdf</a></p><p><b>File Title:</b> ITA-8.2</p><p><b>Description:</b></b> This document provides a protocol for a real-time, quantitative assessment of the chemoattractant capacity of engineered nanomaterials. This assay uses the mouse macrophage cell line RAW 264.7 as a model. The cells are separated from control chemoattractant and test-nanoparticles by an 8 um filter. Cell migration through the filter is monitored using a label-free technology developed by ACEA Biosciences/Agilent, wherein cell attachment to gold electrodes on the underside of the filter results in a change of impedance, which subsequently is converted into a cell index which is proportional to the number of cells that migrated through the filter.<hr><p><b>Resource Type:</b>  Protocol</p><p><b>Data Access:</b> <a href =https://general.datacommons.cancer.gov/#/data>https://general.datacommons.cancer.gov/#/data</a><p>
+<script>
+            document.getElementById('downloadLink').addEventListener('click', async function(e) {
+                e.preventDefault();
+                
+                const originalText = this.textContent;
+                const apiUrl = this.href;
+                
+                try {
+                    // Show loading state
+                    this.textContent = 'Downloading...';
+                    this.style.pointerEvents = 'none';
+                    
+                    console.log('Fetching signed URL from:', apiUrl);
+                    
+                    // Fetch the signed URL from the API
+                    const response = await fetch(apiUrl, {
+                        method: 'GET',
+                        headers: {
+                            'Accept': 'application/json'
+                        }
+                    });
+                    
+                    if (!response.ok) {
+                        throw new Error(`Failed to retrieve signed URL: ${response.status} ${response.statusText}`);
+                    }
+                    
+                    const data = await response.json();
+                    console.log('Received signed URL data:', data);
+                    
+                    if (!data.url) {
+                        throw new Error('No URL found in response');
+                    }
+                    
+                    const signedUrl = data.url;
+                    
+                    // Method 1: Try direct navigation (simplest, works if S3 has proper headers)
+                    window.location.href = signedUrl;
+                    
+                    // Reset after a delay
+                    setTimeout(() => {
+                        this.textContent = originalText;
+                        this.style.pointerEvents = 'auto';
+                    }, 2000);
+                    
+                } catch (error) {
+                    console.error('Download error:', error);
+                    alert(`Error downloading file: ${error.message}
+
+Please check the browser console for details.`);
+                    this.textContent = originalText;
+                    this.style.pointerEvents = 'auto';
+                }
+            });
+        </script>
+</body></html>

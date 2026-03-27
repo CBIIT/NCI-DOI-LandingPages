@@ -9,4 +9,59 @@
             td, th { border: 1px solid #dddddd; text-align: left; padding: 8px }
             tr:nth-child(even) { background-color: #dddddd }
         </style>
-    </head><body><img src="./assets/images/crdc-logo.svg" alt="CRDC General Commons Logo"><h1> caNanoLab DOI </h1><hr><p><b>Protocol Type:</b> physico-chemical assay</p><p><b>Protocol Name:</b> NIST-NCL Joint Assay Protocol, PCC-6: Size Measurement of Nanoparticles Using Atomic Force Microscopy</p><p><b>Protocol Abbreviation:</b> PCC-6</p><p><b>Protocol Version:</b> 1.1<hr><p><b>DOI:</b> <a href = http://dx.doi.org/10.17917/DHAG-PC35>http://dx.doi.org/10.17917/DHAG-PC35</a></p><p><b>Protocol File:</b> protocols/20240417_14-47-57-385_NCL_Method_PCC-6.pdf<p><b>File Title:</b> PCC-6</p><p><b>Description:</b></b> This assay protocol outlines the procedures for sample preparation of gold and the determination of nanoparticle size using atomic force microscopy (AFM).  An AFM utilizes a cantilever with a sharp probe to scan a specimen surface.  The cantilever beam is attached at one end to a piezoelectric displacement actuator controlled by the AFM.  At the other end of the cantilever is the probe tip that interacts with the surface.  At close proximity to the surface, the probe experiences a force (attractive or repulsive) due to surface interactions, which imposes a bending moment on the cantilever.  In response to this moment, the cantilever deflects, and this deflection is measured using a laser beam that is reflected from a mirrored surface on the back side of the cantilever onto a split photodiode. The cantilever deflection is measured by the differential output (difference in responses of the upper and lower sections) of the split photodiode.  The deflections are very small relative to the cantilever thickness and length.  Thus, the probe displacement is linearly related to the deflection.  The cantilever is typically silicon or silicon nitride with a tip radius of curvature on the order of nanometers. Based on the nature of the probe-surface interaction (attractive or repulsive), an AFM can be selected to operate in various modes, namely contact mode, intermittent contact mode, or noncontact mode.  In contact mode, the interaction between the tip and surface is repulsive, and the tip literally contacts the surface.  At the opposite extreme, the tip interacts with the surface via long-range surface force interactions; this is called non-contact mode.  In intermittent contact mode, the cantilever is oscillated close to its resonance frequency perpendicular to the specimen surface, at separations closer to the sample than in non-contact mode.  As the oscillating probe is brought into proximity with the surface, the probe-surface interactions vary from long range attraction to weak repulsion and, as a consequence, the amplitude (and phase) of the cantilever oscillation varies.  During a typical imposed 100 nm amplitude oscillation, for a short duration of time, the tip extends into the repulsive region close to the surface, intermittently touching the surface and thereby reducing the amplitude.  Intermittent contact mode has the advantage of being able to image soft surfaces or particles weakly adhered to a surface and is hence preferred for nanoparticle size measurements.<hr><p><b>Resource Type:</b>  Protocol</p><p><b>Data Access:</b> <a href =https://general.datacommons.cancer.gov/#/data>https://general.datacommons.cancer.gov/#/data</a><p></body></html>
+    </head><body><img src="./assets/images/crdc-logo.svg" alt="CRDC General Commons Logo"><h1> caNanoLab DOI </h1><hr><p><b>Protocol Type:</b> physico-chemical assay</p><p><b>Protocol Name:</b> NIST-NCL Joint Assay Protocol, PCC-6: Size Measurement of Nanoparticles Using Atomic Force Microscopy</p><p><b>Protocol Abbreviation:</b> PCC-6</p><p><b>Protocol Version:</b> 1.1<hr><p><b>DOI:</b> <a href = http://dx.doi.org/10.17917/DHAG-PC35>http://dx.doi.org/10.17917/DHAG-PC35</a></p><p><b>Protocol File: </b><a href = https://nci-crdc.datacommons.io/user/data/download/1d5f3673-7ba1-5323-a0df-fe9e7c4606ee id="downloadLink">20240417_14-47-57-385_NCL_Method_PCC-6.pdf</a></p><p><b>File Title:</b> PCC-6</p><p><b>Description:</b></b> This assay protocol outlines the procedures for sample preparation of gold and the determination of nanoparticle size using atomic force microscopy (AFM).  An AFM utilizes a cantilever with a sharp probe to scan a specimen surface.  The cantilever beam is attached at one end to a piezoelectric displacement actuator controlled by the AFM.  At the other end of the cantilever is the probe tip that interacts with the surface.  At close proximity to the surface, the probe experiences a force (attractive or repulsive) due to surface interactions, which imposes a bending moment on the cantilever.  In response to this moment, the cantilever deflects, and this deflection is measured using a laser beam that is reflected from a mirrored surface on the back side of the cantilever onto a split photodiode. The cantilever deflection is measured by the differential output (difference in responses of the upper and lower sections) of the split photodiode.  The deflections are very small relative to the cantilever thickness and length.  Thus, the probe displacement is linearly related to the deflection.  The cantilever is typically silicon or silicon nitride with a tip radius of curvature on the order of nanometers. Based on the nature of the probe-surface interaction (attractive or repulsive), an AFM can be selected to operate in various modes, namely contact mode, intermittent contact mode, or noncontact mode.  In contact mode, the interaction between the tip and surface is repulsive, and the tip literally contacts the surface.  At the opposite extreme, the tip interacts with the surface via long-range surface force interactions; this is called non-contact mode.  In intermittent contact mode, the cantilever is oscillated close to its resonance frequency perpendicular to the specimen surface, at separations closer to the sample than in non-contact mode.  As the oscillating probe is brought into proximity with the surface, the probe-surface interactions vary from long range attraction to weak repulsion and, as a consequence, the amplitude (and phase) of the cantilever oscillation varies.  During a typical imposed 100 nm amplitude oscillation, for a short duration of time, the tip extends into the repulsive region close to the surface, intermittently touching the surface and thereby reducing the amplitude.  Intermittent contact mode has the advantage of being able to image soft surfaces or particles weakly adhered to a surface and is hence preferred for nanoparticle size measurements.<hr><p><b>Resource Type:</b>  Protocol</p><p><b>Data Access:</b> <a href =https://general.datacommons.cancer.gov/#/data>https://general.datacommons.cancer.gov/#/data</a><p>
+<script>
+            document.getElementById('downloadLink').addEventListener('click', async function(e) {
+                e.preventDefault();
+                
+                const originalText = this.textContent;
+                const apiUrl = this.href;
+                
+                try {
+                    // Show loading state
+                    this.textContent = 'Downloading...';
+                    this.style.pointerEvents = 'none';
+                    
+                    console.log('Fetching signed URL from:', apiUrl);
+                    
+                    // Fetch the signed URL from the API
+                    const response = await fetch(apiUrl, {
+                        method: 'GET',
+                        headers: {
+                            'Accept': 'application/json'
+                        }
+                    });
+                    
+                    if (!response.ok) {
+                        throw new Error(`Failed to retrieve signed URL: ${response.status} ${response.statusText}`);
+                    }
+                    
+                    const data = await response.json();
+                    console.log('Received signed URL data:', data);
+                    
+                    if (!data.url) {
+                        throw new Error('No URL found in response');
+                    }
+                    
+                    const signedUrl = data.url;
+                    
+                    // Method 1: Try direct navigation (simplest, works if S3 has proper headers)
+                    window.location.href = signedUrl;
+                    
+                    // Reset after a delay
+                    setTimeout(() => {
+                        this.textContent = originalText;
+                        this.style.pointerEvents = 'auto';
+                    }, 2000);
+                    
+                } catch (error) {
+                    console.error('Download error:', error);
+                    alert(`Error downloading file: ${error.message}
+
+Please check the browser console for details.`);
+                    this.textContent = originalText;
+                    this.style.pointerEvents = 'auto';
+                }
+            });
+        </script>
+</body></html>

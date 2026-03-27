@@ -9,4 +9,59 @@
             td, th { border: 1px solid #dddddd; text-align: left; padding: 8px }
             tr:nth-child(even) { background-color: #dddddd }
         </style>
-    </head><body><img src="./assets/images/crdc-logo.svg" alt="CRDC General Commons Logo"><h1> caNanoLab DOI </h1><hr><p><b>Protocol Type:</b> physico-chemical assay</p><p><b>Protocol Name:</b> NIST-NCL Joint Assay Protocol, PCC-11: Method for Determination of the Mass Fraction of Particle-Bound Gold in Suspensions of Gold Nanoparticles</p><p><b>Protocol Abbreviation:</b> PCC-11</p><p><b>Protocol Version:</b> 1.2<hr><p><b>DOI:</b> <a href = http://dx.doi.org/10.17917/C73S3Q>http://dx.doi.org/10.17917/C73S3Q</a></p><p><b>Protocol File:</b> protocols/20250124_13-09-11-377_NCL_Method_PCC-11.pdf<p><b>File Title:</b> PCC-11</p><p><b>Description:</b></b> This document provides a protocol for measuring the mass fraction values of gold (Au) nanoparticles in suspensions of Au nanoparticles similar to National Institute of Standards and Technology (NIST) Reference Materials, RM 8011 Gold Nanoparticles Nominal 10 nm Diameter, RM 8012 Gold Nanoparticles Nominal 30 nm Diameter, and RM 8013 Gold Nanoparticles Nominal 60 nm Diameter.  The mass fraction of Au nanoparticles in a given suspension is defined as the mass of Au bound into nanoparticles per mass of suspension.  Bound Au is distinguished from Au dissolved in the solution matrix of the suspension.   The protocol described here can be briefly summarized as follows:  Samples of Au nanoparticle suspensions are digested with acid, and the Au mass fractions of the resulting solutions are measured.  The Au nanoparticles are removed from other samples of the suspensions, and the Au mass fractions of the particle-free solutions are measured.  The mass fraction of Au nanoparticles in each suspension is calculated as the difference between the value obtained for the corresponding digested samples and the value obtained for the corresponding particle-free solutions.   This protocol is based upon the use of inductively coupled plasma optical emission spectrometry (ICP-OES) for estimating the Au mass fraction values in the digested suspension and particle-free solution samples.  The method of standard additions is used for calibration in the analysis of the digested samples, while a calibration equation is developed by means of prepared calibration samples for the analysis of the particle-free samples.  This protocol is based upon the use of centrifugation for the removal of the nanoparticles from the suspensions.  Basic knowledge of and experience with ICP-OES and centrifugation are assumed.<hr><p><b>Resource Type:</b>  Protocol</p><p><b>Data Access:</b> <a href =https://general.datacommons.cancer.gov/#/data>https://general.datacommons.cancer.gov/#/data</a><p></body></html>
+    </head><body><img src="./assets/images/crdc-logo.svg" alt="CRDC General Commons Logo"><h1> caNanoLab DOI </h1><hr><p><b>Protocol Type:</b> physico-chemical assay</p><p><b>Protocol Name:</b> NIST-NCL Joint Assay Protocol, PCC-11: Method for Determination of the Mass Fraction of Particle-Bound Gold in Suspensions of Gold Nanoparticles</p><p><b>Protocol Abbreviation:</b> PCC-11</p><p><b>Protocol Version:</b> 1.2<hr><p><b>DOI:</b> <a href = http://dx.doi.org/10.17917/C73S3Q>http://dx.doi.org/10.17917/C73S3Q</a></p><p><b>Protocol File: </b><a href = https://nci-crdc.datacommons.io/user/data/download/edfb1458-8e91-5ea9-9cea-1fce1c10648a id="downloadLink">20250124_13-09-11-377_NCL_Method_PCC-11.pdf</a></p><p><b>File Title:</b> PCC-11</p><p><b>Description:</b></b> This document provides a protocol for measuring the mass fraction values of gold (Au) nanoparticles in suspensions of Au nanoparticles similar to National Institute of Standards and Technology (NIST) Reference Materials, RM 8011 Gold Nanoparticles Nominal 10 nm Diameter, RM 8012 Gold Nanoparticles Nominal 30 nm Diameter, and RM 8013 Gold Nanoparticles Nominal 60 nm Diameter.  The mass fraction of Au nanoparticles in a given suspension is defined as the mass of Au bound into nanoparticles per mass of suspension.  Bound Au is distinguished from Au dissolved in the solution matrix of the suspension.   The protocol described here can be briefly summarized as follows:  Samples of Au nanoparticle suspensions are digested with acid, and the Au mass fractions of the resulting solutions are measured.  The Au nanoparticles are removed from other samples of the suspensions, and the Au mass fractions of the particle-free solutions are measured.  The mass fraction of Au nanoparticles in each suspension is calculated as the difference between the value obtained for the corresponding digested samples and the value obtained for the corresponding particle-free solutions.   This protocol is based upon the use of inductively coupled plasma optical emission spectrometry (ICP-OES) for estimating the Au mass fraction values in the digested suspension and particle-free solution samples.  The method of standard additions is used for calibration in the analysis of the digested samples, while a calibration equation is developed by means of prepared calibration samples for the analysis of the particle-free samples.  This protocol is based upon the use of centrifugation for the removal of the nanoparticles from the suspensions.  Basic knowledge of and experience with ICP-OES and centrifugation are assumed.<hr><p><b>Resource Type:</b>  Protocol</p><p><b>Data Access:</b> <a href =https://general.datacommons.cancer.gov/#/data>https://general.datacommons.cancer.gov/#/data</a><p>
+<script>
+            document.getElementById('downloadLink').addEventListener('click', async function(e) {
+                e.preventDefault();
+                
+                const originalText = this.textContent;
+                const apiUrl = this.href;
+                
+                try {
+                    // Show loading state
+                    this.textContent = 'Downloading...';
+                    this.style.pointerEvents = 'none';
+                    
+                    console.log('Fetching signed URL from:', apiUrl);
+                    
+                    // Fetch the signed URL from the API
+                    const response = await fetch(apiUrl, {
+                        method: 'GET',
+                        headers: {
+                            'Accept': 'application/json'
+                        }
+                    });
+                    
+                    if (!response.ok) {
+                        throw new Error(`Failed to retrieve signed URL: ${response.status} ${response.statusText}`);
+                    }
+                    
+                    const data = await response.json();
+                    console.log('Received signed URL data:', data);
+                    
+                    if (!data.url) {
+                        throw new Error('No URL found in response');
+                    }
+                    
+                    const signedUrl = data.url;
+                    
+                    // Method 1: Try direct navigation (simplest, works if S3 has proper headers)
+                    window.location.href = signedUrl;
+                    
+                    // Reset after a delay
+                    setTimeout(() => {
+                        this.textContent = originalText;
+                        this.style.pointerEvents = 'auto';
+                    }, 2000);
+                    
+                } catch (error) {
+                    console.error('Download error:', error);
+                    alert(`Error downloading file: ${error.message}
+
+Please check the browser console for details.`);
+                    this.textContent = originalText;
+                    this.style.pointerEvents = 'auto';
+                }
+            });
+        </script>
+</body></html>
